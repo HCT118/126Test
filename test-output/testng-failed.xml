@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.wangyitest.util.YouXiangTest">
+        <methods>
+          <include name="Init"/>
+          <include name="youXiangShouye5"/>
+          <include name="youXiangShouye3"/>
+          <include name="youXiangShouye2"/>
+          <include name="youXiangShouye1"/>
+          <include name="youXiangShouye"/>
+          <include name="youXiangShouye4"/>
+        </methods>
+      </class> <!-- com.wangyitest.util.YouXiangTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

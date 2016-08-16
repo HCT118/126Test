@@ -1,0 +1,1189 @@
+2015-08-17 at 08:47:57 CST INFO  com.baidu.pages.HomePage 21 <init> - åˆå§‹åŒ–HomePageæˆåŠŸ
+2015-08-17 at 08:47:59 CST INFO  com.baidu.util.TakeScreen 35 TakeScreenShot - æˆªå›¾æˆåŠŸ
+2015-08-17 at 08:48:06 CST INFO  com.baidu.pages.News 18 <init> - åˆå§‹åŒ–Newsç±»æˆåŠŸ
+2015-08-17 at 08:48:11 CST INFO  com.baidu.pages.News 22 getshouyeValue - è·å–shouyeçš„å€¼ä¸ºï¼šé¦–é¡µ
+2015-08-17 at 08:49:05 CST INFO  com.baidu.pages.HomePage 21 <init> - åˆå§‹åŒ–HomePageæˆåŠŸ
+2015-08-17 at 08:49:07 CST INFO  com.baidu.util.TakeScreen 35 TakeScreenShot - æˆªå›¾æˆåŠŸ
+2015-08-17 at 08:49:14 CST INFO  com.baidu.pages.News 18 <init> - åˆå§‹åŒ–Newsç±»æˆåŠŸ
+2015-08-17 at 08:49:19 CST INFO  com.baidu.pages.News 22 getshouyeValue - è·å–shouyeçš„å€¼ä¸ºï¼šé¦–é¡µ
+2015-08-17 at 08:49:22 CST INFO  com.baidu.util.TakeScreen 35 TakeScreenShot - æˆªå›¾æˆåŠŸ
+2015-08-24 at 09:24:15 CST INFO  com.baidu.pages.HomePage 21 <init> - ³õÊ¼»¯HomePage³É¹¦
+2015-08-24 at 09:24:22 CST INFO  com.baidu.util.TakeScreen 35 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-24 at 09:24:31 CST INFO  com.baidu.pages.News 18 <init> - ³õÊ¼»¯NewsÀà³É¹¦
+2015-08-24 at 09:24:36 CST INFO  com.baidu.pages.News 22 getshouyeValue - »ñÈ¡shouyeµÄÖµÎª£ºÊ×Ò³
+2015-08-24 at 09:24:39 CST INFO  com.baidu.util.TakeScreen 35 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-24 at 09:30:30 CST INFO  com.baidu.pages.WebdriverBaseCase 43 beforeClass - ======2015-08-24 09:30:30:701£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿¿ªÊ¼======
+2015-08-24 at 09:30:44 CST INFO  com.baidu.pages.HomePage 21 <init> - ³õÊ¼»¯HomePage³É¹¦
+2015-08-24 at 09:30:44 CST INFO  com.baidu.pages.WebdriverBaseCase 57 beforeTest - ======2015-08-24 09:30:44:542£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿¿ªÊ¼======
+2015-08-24 at 09:30:46 CST INFO  com.baidu.util.TakeScreen 35 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-24 at 09:30:53 CST INFO  com.baidu.pages.News 18 <init> - ³õÊ¼»¯NewsÀà³É¹¦
+2015-08-24 at 09:30:58 CST INFO  com.baidu.pages.News 22 getshouyeValue - »ñÈ¡shouyeµÄÖµÎª£ºÊ×Ò³
+2015-08-24 at 09:31:01 CST INFO  com.baidu.util.TakeScreen 35 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-24 at 09:31:01 CST INFO  com.baidu.pages.WebdriverBaseCase 49 afterClass - ======2015-08-24 09:31:01:968£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿½áÊø======
+2015-08-24 at 09:31:01 CST INFO  com.baidu.pages.WebdriverBaseCase 50 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 31.267 Ãë£¡======
+2015-08-24 at 09:37:14 CST INFO  com.baidu.pages.WebdriverBaseCase 43 beforeClass - ======2015-08-24 09:37:14:534£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿¿ªÊ¼======
+2015-08-24 at 09:37:28 CST INFO  com.baidu.pages.HomePage 21 <init> - ³õÊ¼»¯HomePage³É¹¦
+2015-08-24 at 09:37:28 CST INFO  com.baidu.pages.WebdriverBaseCase 57 beforeTest - ======2015-08-24 09:37:28:622£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿¿ªÊ¼======
+2015-08-24 at 09:37:30 CST INFO  com.baidu.util.TakeScreen 35 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-24 at 09:37:39 CST INFO  com.baidu.pages.News 18 <init> - ³õÊ¼»¯NewsÀà³É¹¦
+2015-08-24 at 09:37:44 CST INFO  com.baidu.pages.News 22 getshouyeValue - »ñÈ¡shouyeµÄÖµÎª£ºÊ×Ò³
+2015-08-24 at 09:37:47 CST INFO  com.baidu.util.TakeScreen 35 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-24 at 09:37:47 CST INFO  com.baidu.pages.WebdriverBaseCase 49 afterClass - ======2015-08-24 09:37:47:391£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿½áÊø======
+2015-08-24 at 09:37:47 CST INFO  com.baidu.pages.WebdriverBaseCase 50 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 32.857 Ãë£¡======
+2015-08-24 at 09:38:36 CST INFO  com.baidu.pages.WebdriverBaseCase 43 beforeClass - ======2015-08-24 09:38:36:788£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿¿ªÊ¼======
+2015-08-24 at 09:38:47 CST INFO  com.baidu.pages.WebdriverBaseCase 43 beforeClass - ======2015-08-24 09:38:47:724£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿¿ªÊ¼======
+2015-08-24 at 09:39:00 CST INFO  com.baidu.pages.HomePage 21 <init> - ³õÊ¼»¯HomePage³É¹¦
+2015-08-24 at 09:39:00 CST INFO  com.baidu.pages.WebdriverBaseCase 57 beforeTest - ======2015-08-24 09:39:00:190£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿¿ªÊ¼======
+2015-08-24 at 09:39:02 CST INFO  com.baidu.util.TakeScreen 35 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-24 at 09:39:02 CST INFO  com.baidu.pages.News 18 <init> - ³õÊ¼»¯NewsÀà³É¹¦
+2015-08-24 at 09:39:09 CST INFO  com.baidu.pages.News 22 getshouyeValue - »ñÈ¡shouyeµÄÖµÎª£ºÊ×Ò³
+2015-08-24 at 09:39:12 CST INFO  com.baidu.util.TakeScreen 35 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-24 at 09:39:12 CST INFO  com.baidu.pages.WebdriverBaseCase 49 afterClass - ======2015-08-24 09:39:12:270£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿½áÊø======
+2015-08-24 at 09:39:12 CST INFO  com.baidu.pages.WebdriverBaseCase 50 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 24.546 Ãë£¡======
+2015-08-24 at 10:01:47 CST INFO  com.baidu.pages.WebdriverBaseCase 43 beforeClass - ======2015-08-24 10:01:47:047£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿¿ªÊ¼======
+2015-08-24 at 10:02:00 CST INFO  com.baidu.pages.HomePage 21 <init> - ³õÊ¼»¯HomePage³É¹¦
+2015-08-24 at 10:02:00 CST INFO  com.baidu.pages.WebdriverBaseCase 57 beforeTest - ======2015-08-24 10:02:00:431£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿¿ªÊ¼======
+2015-08-24 at 10:02:02 CST INFO  com.baidu.util.TakeScreen 35 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-24 at 10:02:08 CST INFO  com.baidu.pages.News 18 <init> - ³õÊ¼»¯NewsÀà³É¹¦
+2015-08-24 at 10:02:13 CST INFO  com.baidu.pages.News 22 getshouyeValue - »ñÈ¡shouyeµÄÖµÎª£ºÊ×Ò³
+2015-08-24 at 10:02:13 CST INFO  com.baidu.pages.WebdriverBaseCase 65 afterTest - °¸Àı ¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-24 at 10:02:13 CST INFO  com.baidu.pages.WebdriverBaseCase 76 afterTest - ======2015-08-24 10:02:13:687£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿½áÊø======
+2015-08-24 at 10:02:13 CST INFO  com.baidu.pages.WebdriverBaseCase 79 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 13.257 Ãë£¡======
+2015-08-24 at 10:02:13 CST INFO  com.baidu.pages.WebdriverBaseCase 49 afterClass - ======2015-08-24 10:02:13:690£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿½áÊø======
+2015-08-24 at 10:02:13 CST INFO  com.baidu.pages.WebdriverBaseCase 50 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 26.643 Ãë£¡======
+2015-08-24 at 10:29:37 CST INFO  com.baidu.pages.WebdriverBaseCase 43 beforeClass - ======2015-08-24 10:29:37:159£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿¿ªÊ¼======
+2015-08-24 at 10:29:51 CST INFO  com.baidu.pages.HomePage 21 <init> - ³õÊ¼»¯HomePage³É¹¦
+2015-08-24 at 10:29:51 CST INFO  com.baidu.pages.WebdriverBaseCase 57 beforeTest - ======2015-08-24 10:29:51:723£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿¿ªÊ¼======
+2015-08-24 at 10:29:53 CST INFO  com.baidu.util.TakeScreen 35 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-24 at 10:29:57 CST INFO  com.baidu.pages.News 18 <init> - ³õÊ¼»¯NewsÀà³É¹¦
+2015-08-24 at 10:30:02 CST INFO  com.baidu.pages.News 22 getshouyeValue - »ñÈ¡shouyeµÄÖµÎª£ºÊ×Ò³
+2015-08-24 at 10:30:02 CST INFO  com.baidu.pages.WebdriverBaseCase 49 afterClass - ======2015-08-24 10:30:02:418£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿½áÊø======
+2015-08-24 at 10:30:02 CST INFO  com.baidu.pages.WebdriverBaseCase 50 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 25.259 Ãë£¡======
+2015-08-24 at 10:32:30 CST INFO  com.baidu.pages.WebdriverBaseCase 43 beforeClass - ======2015-08-24 10:32:30:986£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿¿ªÊ¼======
+2015-08-24 at 10:32:44 CST INFO  com.baidu.pages.HomePage 21 <init> - ³õÊ¼»¯HomePage³É¹¦
+2015-08-24 at 10:32:44 CST INFO  com.baidu.pages.WebdriverBaseCase 57 beforeTest - ======2015-08-24 10:32:44:425£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿¿ªÊ¼======
+2015-08-24 at 10:32:46 CST INFO  com.baidu.util.TakeScreen 35 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-24 at 10:32:53 CST INFO  com.baidu.pages.News 18 <init> - ³õÊ¼»¯NewsÀà³É¹¦
+2015-08-24 at 10:32:58 CST INFO  com.baidu.pages.News 22 getshouyeValue - »ñÈ¡shouyeµÄÖµÎª£ºÊ×Ò³
+2015-08-24 at 10:32:58 CST INFO  com.baidu.pages.WebdriverBaseCase 49 afterClass - ======2015-08-24 10:32:58:222£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿½áÊø======
+2015-08-24 at 10:32:58 CST INFO  com.baidu.pages.WebdriverBaseCase 50 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 27.236 Ãë£¡======
+2015-08-24 at 10:33:32 CST INFO  com.baidu.pages.WebdriverBaseCase 43 beforeClass - ======2015-08-24 10:33:32:428£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿¿ªÊ¼======
+2015-08-24 at 10:33:46 CST INFO  com.baidu.pages.HomePage 21 <init> - ³õÊ¼»¯HomePage³É¹¦
+2015-08-24 at 10:33:46 CST INFO  com.baidu.pages.WebdriverBaseCase 57 beforeTest - ======2015-08-24 10:33:46:277£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿¿ªÊ¼======
+2015-08-24 at 10:33:47 CST INFO  com.baidu.util.TakeScreen 35 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-24 at 10:33:55 CST INFO  com.baidu.pages.News 18 <init> - ³õÊ¼»¯NewsÀà³É¹¦
+2015-08-24 at 10:34:00 CST INFO  com.baidu.pages.News 22 getshouyeValue - »ñÈ¡shouyeµÄÖµÎª£ºÊ×Ò³
+2015-08-24 at 10:34:00 CST INFO  com.baidu.pages.WebdriverBaseCase 65 afterTest - °¸Àı ¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-24 at 10:34:00 CST INFO  com.baidu.pages.WebdriverBaseCase 76 afterTest - ======2015-08-24 10:34:00:778£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿½áÊø======
+2015-08-24 at 10:34:00 CST INFO  com.baidu.pages.WebdriverBaseCase 79 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 14.502 Ãë£¡======
+2015-08-24 at 10:34:00 CST INFO  com.baidu.pages.WebdriverBaseCase 49 afterClass - ======2015-08-24 10:34:00:780£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿½áÊø======
+2015-08-24 at 10:34:00 CST INFO  com.baidu.pages.WebdriverBaseCase 50 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 28.352 Ãë£¡======
+2015-08-27 at 23:00:32 CST INFO  com.baidu.pages.WebdriverBaseCase 43 beforeClass - ======2015-08-27 23:00:32:272£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿¿ªÊ¼======
+2015-08-27 at 23:00:43 CST INFO  com.baidu.pages.HomePage 21 <init> - ³õÊ¼»¯HomePage³É¹¦
+2015-08-27 at 23:00:43 CST INFO  com.baidu.pages.WebdriverBaseCase 57 beforeTest - ======2015-08-27 23:00:43:070£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿¿ªÊ¼======
+2015-08-27 at 23:00:45 CST INFO  com.baidu.Driver.GetFirefoxDriver 33 get - µÇÂ¼µØÖ·£ºhttps://www.baidu.com/³É¹¦£¡
+2015-08-27 at 23:00:46 CST INFO  com.baidu.util.TakeScreen 35 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-27 at 23:00:53 CST INFO  com.baidu.pages.News 18 <init> - ³õÊ¼»¯NewsÀà³É¹¦
+2015-08-27 at 23:00:58 CST INFO  com.baidu.pages.News 22 getshouyeValue - »ñÈ¡shouyeµÄÖµÎª£ºÊ×Ò³
+2015-08-27 at 23:00:58 CST INFO  com.baidu.pages.WebdriverBaseCase 65 afterTest - °¸Àı ¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-27 at 23:00:58 CST INFO  com.baidu.pages.WebdriverBaseCase 76 afterTest - ======2015-08-27 23:00:58:427£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿½áÊø======
+2015-08-27 at 23:00:58 CST INFO  com.baidu.pages.WebdriverBaseCase 79 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 15.357 Ãë£¡======
+2015-08-27 at 23:00:58 CST INFO  com.baidu.pages.WebdriverBaseCase 49 afterClass - ======2015-08-27 23:00:58:427£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿½áÊø======
+2015-08-27 at 23:00:58 CST INFO  com.baidu.pages.WebdriverBaseCase 50 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 26.155 Ãë£¡======
+2015-08-28 at 08:31:41 CST INFO  com.baidu.pages.WebdriverBaseCase 43 beforeClass - ======2015-08-28 08:31:41:680£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿¿ªÊ¼======
+2015-08-28 at 08:31:54 CST INFO  com.baidu.pages.HomePage 21 <init> - ³õÊ¼»¯HomePage³É¹¦
+2015-08-28 at 08:31:54 CST INFO  com.baidu.pages.WebdriverBaseCase 57 beforeTest - ======2015-08-28 08:31:54:819£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿¿ªÊ¼======
+2015-08-28 at 08:31:57 CST INFO  com.baidu.Driver.GetFirefoxDriver 33 get - µÇÂ¼µØÖ·£ºhttps://www.baidu.com/³É¹¦£¡
+2015-08-28 at 08:31:58 CST INFO  com.baidu.util.TakeScreen 35 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-28 at 08:31:58 CST INFO  com.baidu.pages.News 18 <init> - ³õÊ¼»¯NewsÀà³É¹¦
+2015-08-28 at 08:32:05 CST INFO  com.baidu.pages.News 22 getshouyeValue - »ñÈ¡shouyeµÄÖµÎª£ºÊ×Ò³
+2015-08-28 at 08:32:05 CST INFO  com.baidu.pages.WebdriverBaseCase 65 afterTest - °¸Àı ¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-28 at 08:32:05 CST INFO  com.baidu.pages.WebdriverBaseCase 76 afterTest - ======2015-08-28 08:32:05:800£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿½áÊø======
+2015-08-28 at 08:32:05 CST INFO  com.baidu.pages.WebdriverBaseCase 79 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 10.981 Ãë£¡======
+2015-08-28 at 08:32:05 CST INFO  com.baidu.pages.WebdriverBaseCase 49 afterClass - ======2015-08-28 08:32:05:810£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿½áÊø======
+2015-08-28 at 08:32:05 CST INFO  com.baidu.pages.WebdriverBaseCase 50 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 24.13 Ãë£¡======
+2015-08-28 at 14:13:04 CST INFO  com.baidu.pages.WebdriverBaseCase 43 beforeClass - ======2015-08-28 14:13:04:670£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿¿ªÊ¼======
+2015-08-28 at 14:13:20 CST INFO  com.baidu.pages.HomePage 21 <init> - ³õÊ¼»¯HomePage³É¹¦
+2015-08-28 at 14:13:21 CST INFO  com.baidu.pages.WebdriverBaseCase 57 beforeTest - ======2015-08-28 14:13:21:023£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿¿ªÊ¼======
+2015-08-28 at 14:13:24 CST INFO  com.baidu.util.TakeScreen 35 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-28 at 14:13:33 CST INFO  com.baidu.pages.News 18 <init> - ³õÊ¼»¯NewsÀà³É¹¦
+2015-08-28 at 14:13:38 CST INFO  com.baidu.pages.News 22 getshouyeValue - »ñÈ¡shouyeµÄÖµÎª£ºÊ×Ò³
+2015-08-28 at 14:13:38 CST INFO  com.baidu.pages.WebdriverBaseCase 65 afterTest - °¸Àı ¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-28 at 14:13:38 CST INFO  com.baidu.pages.WebdriverBaseCase 76 afterTest - ======2015-08-28 14:13:38:197£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿½áÊø======
+2015-08-28 at 14:13:38 CST INFO  com.baidu.pages.WebdriverBaseCase 79 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 17.174 Ãë£¡======
+2015-08-28 at 14:13:38 CST INFO  com.baidu.pages.WebdriverBaseCase 49 afterClass - ======2015-08-28 14:13:38:199£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿½áÊø======
+2015-08-28 at 14:13:38 CST INFO  com.baidu.pages.WebdriverBaseCase 50 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 33.529 Ãë£¡======
+2015-08-28 at 17:37:14 CST INFO  com.baidu.pages.WebdriverBaseCase 46 beforeClass - ======2015-08-28 17:37:14:306£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿¿ªÊ¼======
+2015-08-28 at 17:37:26 CST INFO  com.baidu.pages.HomePage 15 <init> - ³õÊ¼»¯HomePage³É¹¦£¡
+2015-08-28 at 17:37:26 CST INFO  com.baidu.pages.News 16 <init> - ³õÊ¼»¯News³É¹¦£¡
+2015-08-28 at 17:37:27 CST INFO  com.baidu.pages.WebdriverBaseCase 60 beforeTest - ======2015-08-28 17:37:27:001£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿¿ªÊ¼======
+2015-08-28 at 17:37:27 CST INFO  com.baidu.Driver.BaiDuDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-28 at 17:37:27 CST ERROR com.baidu.Driver.BaiDuDriver 94 operationCheck - method ¡¾get¡¿ ÔËĞĞÊ§°Ü£¬Çë²é¿´½ØÍ¼¿ìÕÕ£ºD:\eclipse workspace\Copy of BaiDuTest\picget-20150828-173727002.jpg
+2015-08-28 at 17:37:27 CST INFO  com.baidu.pages.WebdriverBaseCase 52 afterClass - ======2015-08-28 17:37:27:122£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿½áÊø======
+2015-08-28 at 17:37:27 CST INFO  com.baidu.pages.WebdriverBaseCase 53 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 12.816 Ãë£¡======
+2015-08-28 at 17:38:08 CST INFO  com.baidu.pages.WebdriverBaseCase 46 beforeClass - ======2015-08-28 17:38:08:243£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿¿ªÊ¼======
+2015-08-28 at 17:38:22 CST INFO  com.baidu.pages.HomePage 15 <init> - ³õÊ¼»¯HomePage³É¹¦£¡
+2015-08-28 at 17:38:22 CST INFO  com.baidu.pages.News 16 <init> - ³õÊ¼»¯News³É¹¦£¡
+2015-08-28 at 17:38:22 CST INFO  com.baidu.pages.WebdriverBaseCase 60 beforeTest - ======2015-08-28 17:38:22:585£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿¿ªÊ¼======
+2015-08-28 at 17:38:22 CST INFO  com.baidu.Driver.BaiDuDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-28 at 17:38:22 CST ERROR com.baidu.Driver.BaiDuDriver 94 operationCheck - method ¡¾get¡¿ ÔËĞĞÊ§°Ü£¬Çë²é¿´½ØÍ¼¿ìÕÕ£ºD:\eclipse workspace\Copy of BaiDuTest\picget-20150828-173822585.jpg
+2015-08-28 at 17:38:23 CST INFO  com.baidu.pages.WebdriverBaseCase 52 afterClass - ======2015-08-28 17:38:23:099£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿½áÊø======
+2015-08-28 at 17:38:23 CST INFO  com.baidu.pages.WebdriverBaseCase 53 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 14.856 Ãë£¡======
+2015-08-28 at 17:39:24 CST INFO  com.baidu.pages.WebdriverBaseCase 46 beforeClass - ======2015-08-28 17:39:24:961£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿¿ªÊ¼======
+2015-08-28 at 17:39:39 CST INFO  com.baidu.pages.HomePage 15 <init> - ³õÊ¼»¯HomePage³É¹¦£¡
+2015-08-28 at 17:39:39 CST INFO  com.baidu.pages.News 16 <init> - ³õÊ¼»¯News³É¹¦£¡
+2015-08-28 at 17:39:39 CST INFO  com.baidu.pages.WebdriverBaseCase 60 beforeTest - ======2015-08-28 17:39:39:417£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿¿ªÊ¼======
+2015-08-28 at 17:39:39 CST INFO  com.baidu.Driver.BaiDuDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-28 at 17:39:39 CST ERROR com.baidu.Driver.BaiDuDriver 94 operationCheck - method ¡¾get¡¿ ÔËĞĞÊ§°Ü£¬Çë²é¿´½ØÍ¼¿ìÕÕ£ºD:\eclipse workspace\Copy of BaiDuTest\picget-20150828-173939418.jpg
+2015-08-28 at 17:39:39 CST INFO  com.baidu.pages.WebdriverBaseCase 52 afterClass - ======2015-08-28 17:39:39:587£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿½áÊø======
+2015-08-28 at 17:39:39 CST INFO  com.baidu.pages.WebdriverBaseCase 53 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 14.626 Ãë£¡======
+2015-08-28 at 17:42:09 CST INFO  com.baidu.pages.WebdriverBaseCase 46 beforeClass - ======2015-08-28 17:42:09:301£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿¿ªÊ¼======
+2015-08-28 at 17:42:22 CST INFO  com.baidu.pages.HomePage 15 <init> - ³õÊ¼»¯HomePage³É¹¦£¡
+2015-08-28 at 17:42:22 CST INFO  com.baidu.pages.News 16 <init> - ³õÊ¼»¯News³É¹¦£¡
+2015-08-28 at 17:42:22 CST INFO  com.baidu.pages.WebdriverBaseCase 60 beforeTest - ======2015-08-28 17:42:22:914£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿¿ªÊ¼======
+2015-08-28 at 17:42:23 CST INFO  com.baidu.Driver.BaiDuDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-28 at 17:42:23 CST ERROR com.baidu.Driver.BaiDuDriver 94 operationCheck - method ¡¾get¡¿ ÔËĞĞÊ§°Ü£¬Çë²é¿´½ØÍ¼¿ìÕÕ£ºD:\eclipse workspace\Copy of BaiDuTest\pic\get-20150828-174222914.jpg
+2015-08-28 at 17:42:23 CST INFO  com.baidu.pages.WebdriverBaseCase 52 afterClass - ======2015-08-28 17:42:23:056£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿½áÊø======
+2015-08-28 at 17:42:23 CST INFO  com.baidu.pages.WebdriverBaseCase 53 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 13.755 Ãë£¡======
+2015-08-28 at 17:45:29 CST INFO  com.baidu.pages.WebdriverBaseCase 46 beforeClass - ======2015-08-28 17:45:29:119£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿¿ªÊ¼======
+2015-08-28 at 17:45:43 CST INFO  com.baidu.pages.HomePage 15 <init> - ³õÊ¼»¯HomePage³É¹¦£¡
+2015-08-28 at 17:45:43 CST INFO  com.baidu.pages.WebdriverBaseCase 60 beforeTest - ======2015-08-28 17:45:43:390£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿¿ªÊ¼======
+2015-08-28 at 17:45:43 CST INFO  com.baidu.Driver.BaiDuDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-28 at 17:45:43 CST ERROR com.baidu.Driver.BaiDuDriver 94 operationCheck - method ¡¾get¡¿ ÔËĞĞÊ§°Ü£¬Çë²é¿´½ØÍ¼¿ìÕÕ£ºD:\eclipse workspace\Copy of BaiDuTest\pic\get-20150828-174543391.jpg
+2015-08-28 at 17:45:43 CST INFO  com.baidu.pages.WebdriverBaseCase 52 afterClass - ======2015-08-28 17:45:43:533£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿½áÊø======
+2015-08-28 at 17:45:43 CST INFO  com.baidu.pages.WebdriverBaseCase 53 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 14.414 Ãë£¡======
+2015-08-28 at 17:52:17 CST INFO  com.baidu.pages.WebdriverBaseCase 46 beforeClass - ======2015-08-28 17:52:17:107£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿¿ªÊ¼======
+2015-08-28 at 17:52:30 CST INFO  com.baidu.pages.WebdriverBaseCase 60 beforeTest - ======2015-08-28 17:52:30:701£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿¿ªÊ¼======
+2015-08-28 at 17:52:30 CST INFO  com.baidu.Driver.BaiDuDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-28 at 17:52:30 CST ERROR com.baidu.Driver.BaiDuDriver 94 operationCheck - method ¡¾get¡¿ ÔËĞĞÊ§°Ü£¬Çë²é¿´½ØÍ¼¿ìÕÕ£ºD:\eclipse workspace\Copy of BaiDuTest\pic\get-20150828-175230702.jpg
+2015-08-28 at 17:52:30 CST INFO  com.baidu.pages.WebdriverBaseCase 52 afterClass - ======2015-08-28 17:52:30:830£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿½áÊø======
+2015-08-28 at 17:52:30 CST INFO  com.baidu.pages.WebdriverBaseCase 53 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 13.723 Ãë£¡======
+2015-08-28 at 17:53:39 CST INFO  com.baidu.pages.WebdriverBaseCase 46 beforeClass - ======2015-08-28 17:53:39:219£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿¿ªÊ¼======
+2015-08-28 at 17:53:52 CST INFO  com.baidu.pages.WebdriverBaseCase 60 beforeTest - ======2015-08-28 17:53:52:337£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿¿ªÊ¼======
+2015-08-28 at 17:53:52 CST INFO  com.baidu.Driver.BaiDuDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-28 at 17:53:52 CST ERROR com.baidu.Driver.BaiDuDriver 94 operationCheck - method ¡¾get¡¿ ÔËĞĞÊ§°Ü£¬Çë²é¿´½ØÍ¼¿ìÕÕ£ºD:\eclipse workspace\Copy of BaiDuTest\pic\get-20150828-175352338.jpg
+2015-08-28 at 17:53:52 CST INFO  com.baidu.pages.WebdriverBaseCase 52 afterClass - ======2015-08-28 17:53:52:463£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿½áÊø======
+2015-08-28 at 17:53:52 CST INFO  com.baidu.pages.WebdriverBaseCase 53 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 13.243 Ãë£¡======
+2015-08-28 at 17:54:40 CST INFO  com.baidu.pages.WebdriverBaseCase 46 beforeClass - ======2015-08-28 17:54:40:650£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿¿ªÊ¼======
+2015-08-28 at 17:54:53 CST INFO  com.baidu.pages.WebdriverBaseCase 60 beforeTest - ======2015-08-28 17:54:53:666£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿¿ªÊ¼======
+2015-08-28 at 17:54:55 CST INFO  com.baidu.Driver.BaiDuDriver 118 get - Ìø×ªµ½URL£ºhttps://www.baidu.com/³É¹¦
+2015-08-28 at 17:54:55 CST INFO  com.baidu.Driver.BaiDuDriver 85 operationCheck - method ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-28 at 17:54:55 CST INFO  com.baidu.pages.WebdriverBaseCase 52 afterClass - ======2015-08-28 17:54:55:165£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿½áÊø======
+2015-08-28 at 17:54:55 CST INFO  com.baidu.pages.WebdriverBaseCase 53 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 14.515 Ãë£¡======
+2015-08-28 at 17:56:03 CST INFO  com.baidu.pages.WebdriverBaseCase 46 beforeClass - ======2015-08-28 17:56:03:803£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿¿ªÊ¼======
+2015-08-28 at 17:56:16 CST INFO  com.baidu.pages.WebdriverBaseCase 60 beforeTest - ======2015-08-28 17:56:16:623£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿¿ªÊ¼======
+2015-08-28 at 17:56:18 CST INFO  com.baidu.Driver.BaiDuDriver 118 get - Ìø×ªµ½URL£ºhttps://www.baidu.com/³É¹¦
+2015-08-28 at 17:56:18 CST INFO  com.baidu.Driver.BaiDuDriver 85 operationCheck - method ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-28 at 17:56:18 CST INFO  com.baidu.pages.WebdriverBaseCase 52 afterClass - ======2015-08-28 17:56:18:194£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿½áÊø======
+2015-08-28 at 17:56:18 CST INFO  com.baidu.pages.WebdriverBaseCase 53 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 14.392 Ãë£¡======
+2015-08-28 at 17:56:31 CST INFO  com.baidu.pages.WebdriverBaseCase 46 beforeClass - ======2015-08-28 17:56:31:569£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿¿ªÊ¼======
+2015-08-28 at 17:56:44 CST INFO  com.baidu.pages.HomePage 15 <init> - ³õÊ¼»¯HomePage³É¹¦£¡
+2015-08-28 at 17:56:44 CST INFO  com.baidu.pages.WebdriverBaseCase 60 beforeTest - ======2015-08-28 17:56:44:354£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿¿ªÊ¼======
+2015-08-28 at 17:56:46 CST INFO  com.baidu.Driver.BaiDuDriver 118 get - Ìø×ªµ½URL£ºhttps://www.baidu.com/³É¹¦
+2015-08-28 at 17:56:46 CST INFO  com.baidu.Driver.BaiDuDriver 85 operationCheck - method ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-28 at 17:56:46 CST INFO  com.baidu.pages.WebdriverBaseCase 52 afterClass - ======2015-08-28 17:56:46:425£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿½áÊø======
+2015-08-28 at 17:56:46 CST INFO  com.baidu.pages.WebdriverBaseCase 53 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 14.857 Ãë£¡======
+2015-08-28 at 18:02:52 CST INFO  com.baidu.pages.WebdriverBaseCase 46 beforeClass - ======2015-08-28 18:02:52:010£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿¿ªÊ¼======
+2015-08-28 at 18:03:05 CST INFO  com.baidu.pages.HomePage 15 <init> - ³õÊ¼»¯HomePage³É¹¦£¡
+2015-08-28 at 18:03:05 CST INFO  com.baidu.pages.WebdriverBaseCase 60 beforeTest - ======2015-08-28 18:03:05:108£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿¿ªÊ¼======
+2015-08-28 at 18:03:06 CST INFO  com.baidu.Driver.BaiDuDriver 118 get - Ìø×ªµ½URL£ºhttps://www.baidu.com/³É¹¦
+2015-08-28 at 18:03:06 CST INFO  com.baidu.Driver.BaiDuDriver 85 operationCheck - method ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-28 at 18:03:07 CST INFO  com.baidu.Driver.BaiDuDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='u1']/a[1]³É¹¦£¡
+2015-08-28 at 18:03:07 CST INFO  com.baidu.pages.News 16 <init> - ³õÊ¼»¯News³É¹¦£¡
+2015-08-28 at 18:03:07 CST INFO  com.baidu.pages.WebdriverBaseCase 52 afterClass - ======2015-08-28 18:03:07:130£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿½áÊø======
+2015-08-28 at 18:03:07 CST INFO  com.baidu.pages.WebdriverBaseCase 53 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 15.12 Ãë£¡======
+2015-08-28 at 18:04:28 CST INFO  com.baidu.pages.WebdriverBaseCase 46 beforeClass - ======2015-08-28 18:04:28:251£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿¿ªÊ¼======
+2015-08-28 at 18:04:40 CST INFO  com.baidu.pages.HomePage 15 <init> - ³õÊ¼»¯HomePage³É¹¦£¡
+2015-08-28 at 18:04:40 CST INFO  com.baidu.pages.WebdriverBaseCase 60 beforeTest - ======2015-08-28 18:04:40:382£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿¿ªÊ¼======
+2015-08-28 at 18:04:43 CST INFO  com.baidu.Driver.BaiDuDriver 118 get - Ìø×ªµ½URL£ºhttps://www.baidu.com/³É¹¦
+2015-08-28 at 18:04:43 CST INFO  com.baidu.Driver.BaiDuDriver 85 operationCheck - method ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-28 at 18:04:43 CST INFO  com.baidu.Driver.BaiDuDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='u1']/a[1]³É¹¦£¡
+2015-08-28 at 18:04:43 CST INFO  com.baidu.pages.News 16 <init> - ³õÊ¼»¯News³É¹¦£¡
+2015-08-28 at 18:04:43 CST INFO  com.baidu.pages.WebdriverBaseCase 52 afterClass - ======2015-08-28 18:04:43:271£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿½áÊø======
+2015-08-28 at 18:04:43 CST INFO  com.baidu.pages.WebdriverBaseCase 53 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 15.02 Ãë£¡======
+2015-08-28 at 18:09:11 CST INFO  com.baidu.pages.WebdriverBaseCase 46 beforeClass - ======2015-08-28 18:09:11:468£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿¿ªÊ¼======
+2015-08-28 at 18:09:23 CST INFO  com.baidu.pages.HomePage 15 <init> - ³õÊ¼»¯HomePage³É¹¦£¡
+2015-08-28 at 18:09:23 CST INFO  com.baidu.pages.WebdriverBaseCase 60 beforeTest - ======2015-08-28 18:09:23:667£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿¿ªÊ¼======
+2015-08-28 at 18:09:25 CST INFO  com.baidu.Driver.BaiDuDriver 118 get - Ìø×ªµ½URL£ºhttps://www.baidu.com/³É¹¦
+2015-08-28 at 18:09:25 CST INFO  com.baidu.Driver.BaiDuDriver 85 operationCheck - method ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-28 at 18:09:31 CST INFO  com.baidu.Driver.BaiDuDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='u1']/a[1]³É¹¦£¡
+2015-08-28 at 18:09:31 CST INFO  com.baidu.pages.News 16 <init> - ³õÊ¼»¯News³É¹¦£¡
+2015-08-28 at 18:09:32 CST DEBUG com.baidu.Driver.BaiDuDriver 589 getText - element [ By.xpath: .//div[@id='channel-shanghai']/descendant::a[1] ]'s text is: Ê×Ò³
+2015-08-28 at 18:09:32 CST INFO  com.baidu.pages.News 22 getNewsValue - »ñÈ¡Öµ³É¹¦Îª£ºÊ×Ò³
+2015-08-28 at 18:09:32 CST INFO  com.baidu.pages.WebdriverBaseCase 52 afterClass - ======2015-08-28 18:09:32:367£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿½áÊø======
+2015-08-28 at 18:09:32 CST INFO  com.baidu.pages.WebdriverBaseCase 53 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 20.899 Ãë£¡======
+2015-08-28 at 18:10:56 CST INFO  com.baidu.pages.WebdriverBaseCase 46 beforeClass - ======2015-08-28 18:10:56:467£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿¿ªÊ¼======
+2015-08-28 at 18:11:11 CST INFO  com.baidu.pages.HomePage 15 <init> - ³õÊ¼»¯HomePage³É¹¦£¡
+2015-08-28 at 18:11:11 CST INFO  com.baidu.pages.WebdriverBaseCase 60 beforeTest - ======2015-08-28 18:11:11:463£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿¿ªÊ¼======
+2015-08-28 at 18:11:12 CST INFO  com.baidu.Driver.BaiDuDriver 118 get - Ìø×ªµ½URL£ºhttps://www.baidu.com/³É¹¦
+2015-08-28 at 18:11:12 CST INFO  com.baidu.Driver.BaiDuDriver 85 operationCheck - method ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-28 at 18:11:23 CST INFO  com.baidu.Driver.BaiDuDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='u1']/a[1]³É¹¦£¡
+2015-08-28 at 18:11:23 CST INFO  com.baidu.pages.News 16 <init> - ³õÊ¼»¯News³É¹¦£¡
+2015-08-28 at 18:11:23 CST DEBUG com.baidu.Driver.BaiDuDriver 589 getText - ¿Ø¼ş [ By.xpath: .//div[@id='channel-shanghai']/descendant::a[1] ]µÄ ÄÚÈİÊÇ: Ê×Ò³
+2015-08-28 at 18:11:23 CST INFO  com.baidu.pages.News 22 getNewsValue - »ñÈ¡Öµ³É¹¦Îª£ºÊ×Ò³
+2015-08-28 at 18:11:23 CST INFO  com.baidu.pages.WebdriverBaseCase 52 afterClass - ======2015-08-28 18:11:23:277£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿½áÊø======
+2015-08-28 at 18:11:23 CST INFO  com.baidu.pages.WebdriverBaseCase 53 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 26.811 Ãë£¡======
+2015-08-28 at 18:24:36 CST INFO  com.baidu.pages.WebdriverBaseCase 46 beforeClass - ======2015-08-28 18:24:36:439£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿¿ªÊ¼======
+2015-08-28 at 18:24:50 CST INFO  com.baidu.pages.HomePage 15 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-28 at 18:24:50 CST INFO  com.baidu.pages.WebdriverBaseCase 60 beforeTest - ======2015-08-28 18:24:50:242£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿¿ªÊ¼======
+2015-08-28 at 18:24:51 CST INFO  com.baidu.Driver.BaiDuDriver 118 get - Ìø×ªµ½URL£ºhttps://www.baidu.com/³É¹¦
+2015-08-28 at 18:24:51 CST INFO  com.baidu.Driver.BaiDuDriver 85 operationCheck - ·½·¨ ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-28 at 18:24:51 CST INFO  com.baidu.Driver.BaiDuDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-28 at 18:25:03 CST INFO  com.baidu.Driver.BaiDuDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='u1']/a[1]³É¹¦£¡
+2015-08-28 at 18:25:03 CST INFO  com.baidu.pages.News 16 <init> - ³õÊ¼»¯NewsÀà³É¹¦£¡
+2015-08-28 at 18:25:03 CST DEBUG com.baidu.Driver.BaiDuDriver 589 getText - ¿Ø¼ş [ By.xpath: .//div[@id='channel-shanghai']/descendant::a[1] ]µÄ ÄÚÈİÊÇ: Ê×Ò³
+2015-08-28 at 18:25:03 CST INFO  com.baidu.pages.News 22 getNewsValue - »ñÈ¡Öµ³É¹¦Îª£ºÊ×Ò³
+2015-08-28 at 18:25:06 CST INFO  com.baidu.Driver.BaiDuDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-28 at 18:25:06 CST INFO  com.baidu.pages.WebdriverBaseCase 52 afterClass - ======2015-08-28 18:25:06:776£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿½áÊø======
+2015-08-28 at 18:25:06 CST INFO  com.baidu.pages.WebdriverBaseCase 53 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 30.337 Ãë£¡======
+2015-08-28 at 18:29:02 CST INFO  com.baidu.pages.WebdriverBaseCase 46 beforeClass - ======2015-08-28 18:29:02:518£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿¿ªÊ¼======
+2015-08-28 at 18:29:17 CST INFO  com.baidu.pages.HomePage 15 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-28 at 18:29:17 CST INFO  com.baidu.pages.WebdriverBaseCase 60 beforeTest - ======2015-08-28 18:29:17:023£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿¿ªÊ¼======
+2015-08-28 at 18:29:18 CST INFO  com.baidu.Driver.BaiDuDriver 118 get - Ìø×ªµ½URL£ºhttps://www.baidu.com/³É¹¦
+2015-08-28 at 18:29:18 CST INFO  com.baidu.Driver.BaiDuDriver 85 operationCheck - ·½·¨ ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-28 at 18:29:19 CST INFO  com.baidu.Driver.BaiDuDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-28 at 18:29:26 CST INFO  com.baidu.Driver.BaiDuDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='u1']/a[1]³É¹¦£¡
+2015-08-28 at 18:29:26 CST INFO  com.baidu.pages.News 16 <init> - ³õÊ¼»¯NewsÀà³É¹¦£¡
+2015-08-28 at 18:29:27 CST DEBUG com.baidu.Driver.BaiDuDriver 589 getText - ¿Ø¼ş [ By.xpath: .//div[@id='channel-shanghai']/descendant::a[1] ]µÄ ÄÚÈİÊÇ: Ê×Ò³
+2015-08-28 at 18:29:27 CST INFO  com.baidu.pages.News 22 getNewsValue - »ñÈ¡Öµ³É¹¦Îª£ºÊ×Ò³
+2015-08-28 at 18:29:30 CST INFO  com.baidu.Driver.BaiDuDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-28 at 18:29:30 CST INFO  com.baidu.pages.WebdriverBaseCase 68 afterTest - °¸Àı ¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-28 at 18:29:30 CST INFO  com.baidu.pages.WebdriverBaseCase 79 afterTest - ======2015-08-28 18:29:30:630£º°¸Àı¡¾com.baidutest.util.BaiDuTest.BaiDuShouye¡¿½áÊø======
+2015-08-28 at 18:29:30 CST INFO  com.baidu.pages.WebdriverBaseCase 82 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 13.609 Ãë£¡======
+2015-08-28 at 18:29:30 CST INFO  com.baidu.pages.WebdriverBaseCase 52 afterClass - ======2015-08-28 18:29:30:635£º²âÊÔ¡¾com.baidutest.util.BaiDuTest¡¿½áÊø======
+2015-08-28 at 18:29:30 CST INFO  com.baidu.pages.WebdriverBaseCase 53 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 28.117 Ãë£¡======
+2015-08-29 at 09:05:12 CST INFO  com.wangyi.pages.WebdriverBaseCase 46 beforeClass - ======2015-08-29 09:05:12:272£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 09:05:27 CST INFO  com.wangyi.pages.HomePage 15 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-29 at 09:05:28 CST INFO  com.wangyi.Driver.WangYiDriver 118 get - Ìø×ªµ½URL£ºhttps://www.baidu.com/³É¹¦
+2015-08-29 at 09:05:28 CST INFO  com.wangyi.Driver.WangYiDriver 85 operationCheck - ·½·¨ ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 09:05:28 CST INFO  com.wangyi.pages.WebdriverBaseCase 60 beforeTest - ======2015-08-29 09:05:28:736£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿¿ªÊ¼======
+2015-08-29 at 09:05:28 CST INFO  com.wangyi.pages.WebdriverBaseCase 52 afterClass - ======2015-08-29 09:05:28:902£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿½áÊø======
+2015-08-29 at 09:05:28 CST INFO  com.wangyi.pages.WebdriverBaseCase 53 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 16.631 Ãë£¡======
+2015-08-29 at 09:05:53 CST INFO  com.wangyi.pages.WebdriverBaseCase 46 beforeClass - ======2015-08-29 09:05:53:091£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 09:06:05 CST INFO  com.wangyi.pages.HomePage 15 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-29 at 09:06:06 CST INFO  com.wangyi.Driver.WangYiDriver 118 get - Ìø×ªµ½URL£ºhttp://www.126.com/³É¹¦
+2015-08-29 at 09:06:06 CST INFO  com.wangyi.Driver.WangYiDriver 85 operationCheck - ·½·¨ ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 09:06:06 CST INFO  com.wangyi.pages.WebdriverBaseCase 60 beforeTest - ======2015-08-29 09:06:06:776£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿¿ªÊ¼======
+2015-08-29 at 09:06:07 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 09:06:07 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 09:06:07 CST INFO  com.wangyi.pages.WebdriverBaseCase 52 afterClass - ======2015-08-29 09:06:07:287£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿½áÊø======
+2015-08-29 at 09:06:07 CST INFO  com.wangyi.pages.WebdriverBaseCase 53 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 14.196 Ãë£¡======
+2015-08-29 at 09:06:47 CST INFO  com.wangyi.pages.WebdriverBaseCase 46 beforeClass - ======2015-08-29 09:06:47:477£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 09:06:59 CST INFO  com.wangyi.pages.HomePage 15 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-29 at 09:07:00 CST INFO  com.wangyi.Driver.WangYiDriver 118 get - Ìø×ªµ½URL£ºhttp://www.126.com/³É¹¦
+2015-08-29 at 09:07:00 CST INFO  com.wangyi.Driver.WangYiDriver 85 operationCheck - ·½·¨ ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 09:07:00 CST INFO  com.wangyi.pages.WebdriverBaseCase 60 beforeTest - ======2015-08-29 09:07:00:710£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿¿ªÊ¼======
+2015-08-29 at 09:07:01 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 09:07:01 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 09:07:01 CST INFO  com.wangyi.pages.WebdriverBaseCase 52 afterClass - ======2015-08-29 09:07:01:176£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿½áÊø======
+2015-08-29 at 09:07:01 CST INFO  com.wangyi.pages.WebdriverBaseCase 53 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 13.699 Ãë£¡======
+2015-08-29 at 09:11:06 CST INFO  com.wangyi.pages.WebdriverBaseCase 46 beforeClass - ======2015-08-29 09:11:06:796£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 09:11:19 CST INFO  com.wangyi.pages.HomePage 15 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-29 at 09:11:41 CST INFO  com.wangyi.pages.WebdriverBaseCase 46 beforeClass - ======2015-08-29 09:11:41:928£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 09:11:58 CST INFO  com.wangyi.pages.HomePage 15 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-29 at 09:11:59 CST INFO  com.wangyi.Driver.WangYiDriver 118 get - Ìø×ªµ½URL£ºhttp://www.126.com/³É¹¦
+2015-08-29 at 09:11:59 CST INFO  com.wangyi.Driver.WangYiDriver 85 operationCheck - ·½·¨ ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 09:11:59 CST INFO  com.wangyi.pages.WebdriverBaseCase 60 beforeTest - ======2015-08-29 09:11:59:443£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿¿ªÊ¼======
+2015-08-29 at 09:12:00 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 09:12:00 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 09:12:00 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 09:12:05 CST INFO  com.wangyi.pages.WebdriverBaseCase 52 afterClass - ======2015-08-29 09:12:05:981£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿½áÊø======
+2015-08-29 at 09:12:05 CST INFO  com.wangyi.pages.WebdriverBaseCase 53 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 24.053 Ãë£¡======
+2015-08-29 at 09:12:14 CST INFO  com.wangyi.pages.WebdriverBaseCase 46 beforeClass - ======2015-08-29 09:12:14:231£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 09:12:26 CST INFO  com.wangyi.pages.HomePage 15 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-29 at 09:12:27 CST INFO  com.wangyi.Driver.WangYiDriver 118 get - Ìø×ªµ½URL£ºhttp://www.126.com/³É¹¦
+2015-08-29 at 09:12:27 CST INFO  com.wangyi.Driver.WangYiDriver 85 operationCheck - ·½·¨ ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 09:12:27 CST INFO  com.wangyi.pages.WebdriverBaseCase 60 beforeTest - ======2015-08-29 09:12:27:796£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿¿ªÊ¼======
+2015-08-29 at 09:12:28 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 09:12:28 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 09:12:28 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 09:12:33 CST INFO  com.wangyi.pages.WebdriverBaseCase 52 afterClass - ======2015-08-29 09:12:33:362£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿½áÊø======
+2015-08-29 at 09:12:33 CST INFO  com.wangyi.pages.WebdriverBaseCase 53 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 19.131 Ãë£¡======
+2015-08-29 at 09:13:58 CST INFO  com.wangyi.pages.WebdriverBaseCase 46 beforeClass - ======2015-08-29 09:13:58:809£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 09:14:12 CST INFO  com.wangyi.pages.HomePage 15 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-29 at 09:14:12 CST INFO  com.wangyi.Driver.WangYiDriver 118 get - Ìø×ªµ½URL£ºhttp://www.126.com/³É¹¦
+2015-08-29 at 09:14:12 CST INFO  com.wangyi.Driver.WangYiDriver 85 operationCheck - ·½·¨ ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 09:14:12 CST INFO  com.wangyi.pages.WebdriverBaseCase 60 beforeTest - ======2015-08-29 09:14:12:849£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿¿ªÊ¼======
+2015-08-29 at 09:14:13 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 09:14:13 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 09:14:13 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 09:14:18 CST INFO  com.wangyi.pages.WebdriverBaseCase 52 afterClass - ======2015-08-29 09:14:18:429£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿½áÊø======
+2015-08-29 at 09:14:18 CST INFO  com.wangyi.pages.WebdriverBaseCase 53 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 19.62 Ãë£¡======
+2015-08-29 at 09:19:00 CST INFO  com.wangyi.pages.WebdriverBaseCase 47 beforeClass - ======2015-08-29 09:19:00:098£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 09:19:13 CST INFO  com.wangyi.pages.HomePage 15 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-29 at 09:19:14 CST INFO  com.wangyi.Driver.WangYiDriver 118 get - Ìø×ªµ½URL£ºhttp://www.126.com/³É¹¦
+2015-08-29 at 09:19:14 CST INFO  com.wangyi.Driver.WangYiDriver 85 operationCheck - ·½·¨ ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 09:19:14 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 09:19:14:737£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿¿ªÊ¼======
+2015-08-29 at 09:19:15 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 09:19:15 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 09:19:15 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 09:19:20 CST INFO  com.wangyi.pages.WebdriverBaseCase 53 afterClass - ======2015-08-29 09:19:20:453£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿½áÊø======
+2015-08-29 at 09:19:20 CST INFO  com.wangyi.pages.WebdriverBaseCase 54 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 20.355 Ãë£¡======
+2015-08-29 at 09:21:57 CST INFO  com.wangyi.pages.WebdriverBaseCase 47 beforeClass - ======2015-08-29 09:21:57:387£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 09:22:10 CST INFO  com.wangyi.pages.HomePage 15 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-29 at 09:22:12 CST INFO  com.wangyi.Driver.WangYiDriver 118 get - Ìø×ªµ½URL£ºhttp://www.126.com/³É¹¦
+2015-08-29 at 09:22:12 CST INFO  com.wangyi.Driver.WangYiDriver 85 operationCheck - ·½·¨ ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 09:22:12 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 09:22:12:063£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿¿ªÊ¼======
+2015-08-29 at 09:22:12 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 09:22:12 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 09:22:12 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 09:22:17 CST INFO  com.wangyi.Driver.WangYiDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-29 at 09:22:17 CST ERROR com.wangyi.pages.WebdriverBaseCase 80 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿ ÔËĞĞÊ§°Ü£¬Çë²é¿´½ØÍ¼¿ìÕÕ£ºD:\eclipse workspace\126Test\pic\com.wangyitest.util.YouXiangTest.youXiangShouye-20150829-092217706.jpg
+2015-08-29 at 09:22:17 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 09:22:17:705£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿½áÊø======
+2015-08-29 at 09:22:17 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 5.777 Ãë£¡======
+2015-08-29 at 09:22:17 CST INFO  com.wangyi.pages.WebdriverBaseCase 53 afterClass - ======2015-08-29 09:22:17:841£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿½áÊø======
+2015-08-29 at 09:22:17 CST INFO  com.wangyi.pages.WebdriverBaseCase 54 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 20.454 Ãë£¡======
+2015-08-29 at 09:36:53 CST INFO  com.wangyi.pages.WebdriverBaseCase 47 beforeClass - ======2015-08-29 09:36:53:383£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 09:37:06 CST INFO  com.wangyi.pages.HomePage 15 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-29 at 09:37:10 CST INFO  com.wangyi.Driver.WangYiDriver 118 get - Ìø×ªµ½URL£ºhttp://www.126.com/³É¹¦
+2015-08-29 at 09:37:10 CST INFO  com.wangyi.Driver.WangYiDriver 85 operationCheck - ·½·¨ ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 09:37:10 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 09:37:10:648£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿¿ªÊ¼======
+2015-08-29 at 09:37:11 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature³É¹¦
+2015-08-29 at 09:37:11 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 09:37:11 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 09:37:13 CST ERROR com.wangyi.Driver.WangYiDriver 157 isAlertExists - org.openqa.selenium.NoAlertPresentException: No alert is present (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.16 seconds
+Build info: version: '2.44.0', revision: '76d78cf323ce037c5f92db6c1bba601c2ac43ad8', time: '2014-10-23 13:11:40'
+System info: host: 'nature-PC', ip: '192.168.0.102', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_51'
+Session ID: f45798fd-9ea4-4d79-a9fb-e1e1d83054d6
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=28.0}]
+2015-08-29 at 09:37:14 CST INFO  com.wangyi.Driver.WangYiDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-29 at 09:37:14 CST ERROR com.wangyi.Driver.WangYiDriver 94 operationCheck - ·½·¨ ¡¾isAlertExists¡¿ ÔËĞĞÊ§°Ü£¬Çë²é¿´½ØÍ¼¿ìÕÕ£ºD:\eclipse workspace\126Test\pic\isAlertExists-20150829-093713682.jpg
+2015-08-29 at 09:37:14 CST INFO  com.wangyi.Driver.WangYiDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-29 at 09:37:14 CST ERROR com.wangyi.Driver.WangYiDriver 94 operationCheck - ·½·¨ ¡¾getTextOfAlert¡¿ ÔËĞĞÊ§°Ü£¬Çë²é¿´½ØÍ¼¿ìÕÕ£ºD:\eclipse workspace\126Test\pic\getTextOfAlert-20150829-093714011.jpg
+2015-08-29 at 09:37:14 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 09:37:14:249£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿¿ªÊ¼======
+2015-08-29 at 09:37:14 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 09:37:14 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 09:37:14 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 09:37:19 CST INFO  com.wangyi.Driver.WangYiDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-29 at 09:37:19 CST ERROR com.wangyi.pages.WebdriverBaseCase 80 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿ ÔËĞĞÊ§°Ü£¬Çë²é¿´½ØÍ¼¿ìÕÕ£ºD:\eclipse workspace\126Test\pic\com.wangyitest.util.YouXiangTest.youXiangShouye-20150829-093719525.jpg
+2015-08-29 at 09:37:19 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 09:37:19:524£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿½áÊø======
+2015-08-29 at 09:37:19 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 5.601 Ãë£¡======
+2015-08-29 at 09:37:19 CST INFO  com.wangyi.pages.WebdriverBaseCase 53 afterClass - ======2015-08-29 09:37:19:851£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿½áÊø======
+2015-08-29 at 09:37:19 CST INFO  com.wangyi.pages.WebdriverBaseCase 54 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 26.468 Ãë£¡======
+2015-08-29 at 09:39:40 CST INFO  com.wangyi.pages.WebdriverBaseCase 47 beforeClass - ======2015-08-29 09:39:40:233£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 09:39:58 CST INFO  com.wangyi.pages.HomePage 15 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-29 at 09:39:59 CST INFO  com.wangyi.Driver.WangYiDriver 118 get - Ìø×ªµ½URL£ºhttp://www.126.com/³É¹¦
+2015-08-29 at 09:39:59 CST INFO  com.wangyi.Driver.WangYiDriver 85 operationCheck - ·½·¨ ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 09:39:59 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 09:39:59:302£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿¿ªÊ¼======
+2015-08-29 at 09:39:59 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 09:39:59 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature³É¹¦
+2015-08-29 at 09:39:59 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 09:39:59 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 09:39:59 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 09:40:02 CST ERROR com.wangyi.Driver.WangYiDriver 157 isAlertExists - org.openqa.selenium.NoAlertPresentException: No alert is present (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.16 seconds
+Build info: version: '2.44.0', revision: '76d78cf323ce037c5f92db6c1bba601c2ac43ad8', time: '2014-10-23 13:11:40'
+System info: host: 'nature-PC', ip: '192.168.0.102', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_51'
+Session ID: d3b678f0-9115-4d4c-9067-d6f982b5a678
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=28.0}]
+2015-08-29 at 09:40:07 CST INFO  com.wangyi.Driver.WangYiDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-29 at 09:40:07 CST ERROR com.wangyi.Driver.WangYiDriver 94 operationCheck - ·½·¨ ¡¾isAlertExists¡¿ ÔËĞĞÊ§°Ü£¬Çë²é¿´½ØÍ¼¿ìÕÕ£ºD:\eclipse workspace\126Test\pic\isAlertExists-20150829-094007164.jpg
+2015-08-29 at 09:40:07 CST INFO  com.wangyi.Driver.WangYiDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-29 at 09:40:07 CST ERROR com.wangyi.Driver.WangYiDriver 94 operationCheck - ·½·¨ ¡¾getTextOfAlert¡¿ ÔËĞĞÊ§°Ü£¬Çë²é¿´½ØÍ¼¿ìÕÕ£ºD:\eclipse workspace\126Test\pic\getTextOfAlert-20150829-094007514.jpg
+2015-08-29 at 09:40:07 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 09:40:07:752£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿¿ªÊ¼======
+2015-08-29 at 09:40:07 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 09:40:07 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 09:40:07 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 09:40:07 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 09:40:07 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 09:40:13 CST INFO  com.wangyi.Driver.WangYiDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-29 at 09:40:13 CST ERROR com.wangyi.pages.WebdriverBaseCase 80 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿ ÔËĞĞÊ§°Ü£¬Çë²é¿´½ØÍ¼¿ìÕÕ£ºD:\eclipse workspace\126Test\pic\com.wangyitest.util.YouXiangTest.youXiangShouye-20150829-094013040.jpg
+2015-08-29 at 09:40:13 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 09:40:13:039£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿½áÊø======
+2015-08-29 at 09:40:13 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 5.444 Ãë£¡======
+2015-08-29 at 09:40:13 CST INFO  com.wangyi.pages.WebdriverBaseCase 53 afterClass - ======2015-08-29 09:40:13:197£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿½áÊø======
+2015-08-29 at 09:40:13 CST INFO  com.wangyi.pages.WebdriverBaseCase 54 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 32.964 Ãë£¡======
+2015-08-29 at 09:45:45 CST INFO  com.wangyi.pages.WebdriverBaseCase 47 beforeClass - ======2015-08-29 09:45:45:750£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 09:45:59 CST INFO  com.wangyi.pages.HomePage 15 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-29 at 09:46:03 CST INFO  com.wangyi.Driver.WangYiDriver 118 get - Ìø×ªµ½URL£ºhttp://www.126.com/³É¹¦
+2015-08-29 at 09:46:03 CST INFO  com.wangyi.Driver.WangYiDriver 85 operationCheck - ·½·¨ ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 09:46:03 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 09:46:03:303£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿¿ªÊ¼======
+2015-08-29 at 09:46:03 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 09:46:03 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature³É¹¦
+2015-08-29 at 09:46:04 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 09:46:04 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 09:46:04 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 09:46:04 CST INFO  com.wangyi.Driver.WangYiDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-29 at 09:46:04 CST ERROR com.wangyi.pages.WebdriverBaseCase 80 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿ ÔËĞĞÊ§°Ü£¬Çë²é¿´½ØÍ¼¿ìÕÕ£ºD:\eclipse workspace\126Test\pic\com.wangyitest.util.YouXiangTest.youXiangShouye-20150829-094604230.jpg
+2015-08-29 at 09:46:04 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 09:46:04:230£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿½áÊø======
+2015-08-29 at 09:46:04 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 1.188 Ãë£¡======
+2015-08-29 at 09:46:04 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 09:46:04:493£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿¿ªÊ¼======
+2015-08-29 at 09:46:04 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 09:46:04 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 09:46:04 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 09:46:04 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 09:46:04 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 09:46:09 CST INFO  com.wangyi.Driver.WangYiDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-29 at 09:46:09 CST ERROR com.wangyi.pages.WebdriverBaseCase 80 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿ ÔËĞĞÊ§°Ü£¬Çë²é¿´½ØÍ¼¿ìÕÕ£ºD:\eclipse workspace\126Test\pic\com.wangyitest.util.YouXiangTest.youXiangShouye-20150829-094609766.jpg
+2015-08-29 at 09:46:10 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 09:46:09:766£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿½áÊø======
+2015-08-29 at 09:46:10 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 5.507 Ãë£¡======
+2015-08-29 at 09:46:10 CST INFO  com.wangyi.pages.WebdriverBaseCase 53 afterClass - ======2015-08-29 09:46:10:001£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿½áÊø======
+2015-08-29 at 09:46:10 CST INFO  com.wangyi.pages.WebdriverBaseCase 54 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 24.251 Ãë£¡======
+2015-08-29 at 09:46:57 CST INFO  com.wangyi.pages.WebdriverBaseCase 47 beforeClass - ======2015-08-29 09:46:57:278£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 09:47:09 CST INFO  com.wangyi.pages.HomePage 15 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-29 at 09:47:10 CST INFO  com.wangyi.Driver.WangYiDriver 118 get - Ìø×ªµ½URL£ºhttp://www.126.com/³É¹¦
+2015-08-29 at 09:47:10 CST INFO  com.wangyi.Driver.WangYiDriver 85 operationCheck - ·½·¨ ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 09:47:10 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 09:47:10:635£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿¿ªÊ¼======
+2015-08-29 at 09:47:11 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 09:47:11 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature³É¹¦
+2015-08-29 at 09:47:11 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 09:47:11 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 09:47:11 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 09:47:16 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÕÊºÅ»òÃÜÂë´íÎó
+2015-08-29 at 09:47:16 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 09:47:16 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 09:47:16:671£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿½áÊø======
+2015-08-29 at 09:47:16 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 6.037 Ãë£¡======
+2015-08-29 at 09:47:16 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 09:47:16:674£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿¿ªÊ¼======
+2015-08-29 at 09:47:16 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 09:47:16 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 09:47:16 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 09:47:16 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 09:47:16 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 09:47:22 CST INFO  com.wangyi.Driver.WangYiDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-29 at 09:47:22 CST ERROR com.wangyi.pages.WebdriverBaseCase 80 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿ ÔËĞĞÊ§°Ü£¬Çë²é¿´½ØÍ¼¿ìÕÕ£ºD:\eclipse workspace\126Test\pic\com.wangyitest.util.YouXiangTest.youXiangShouye-20150829-094722043.jpg
+2015-08-29 at 09:47:22 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 09:47:22:042£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿½áÊø======
+2015-08-29 at 09:47:22 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 5.532 Ãë£¡======
+2015-08-29 at 09:47:22 CST INFO  com.wangyi.pages.WebdriverBaseCase 53 afterClass - ======2015-08-29 09:47:22:207£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿½áÊø======
+2015-08-29 at 09:47:22 CST INFO  com.wangyi.pages.WebdriverBaseCase 54 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 24.929 Ãë£¡======
+2015-08-29 at 09:54:02 CST INFO  com.wangyi.pages.WebdriverBaseCase 47 beforeClass - ======2015-08-29 09:54:02:172£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 09:54:16 CST INFO  com.wangyi.pages.HomePage 15 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-29 at 09:54:17 CST INFO  com.wangyi.Driver.WangYiDriver 118 get - Ìø×ªµ½URL£ºhttp://www.126.com/³É¹¦
+2015-08-29 at 09:54:17 CST INFO  com.wangyi.Driver.WangYiDriver 85 operationCheck - ·½·¨ ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 09:54:17 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 09:54:17:460£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿¿ªÊ¼======
+2015-08-29 at 09:54:17 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 09:54:17 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 09:54:17 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 09:54:18 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 09:54:18 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 09:54:23 CST INFO  com.wangyi.Driver.WangYiDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-29 at 09:54:23 CST ERROR com.wangyi.pages.WebdriverBaseCase 80 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿ ÔËĞĞÊ§°Ü£¬Çë²é¿´½ØÍ¼¿ìÕÕ£ºD:\eclipse workspace\126Test\pic\com.wangyitest.util.YouXiangTest.youXiangShouye-20150829-095423148.jpg
+2015-08-29 at 09:54:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 09:54:23:148£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿½áÊø======
+2015-08-29 at 09:54:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 5.835 Ãë£¡======
+2015-08-29 at 09:54:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 09:54:23:297£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿¿ªÊ¼======
+2015-08-29 at 09:54:23 CST INFO  com.wangyi.Driver.WangYiDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-29 at 09:54:23 CST ERROR com.wangyi.pages.WebdriverBaseCase 80 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿ ÔËĞĞÊ§°Ü£¬Çë²é¿´½ØÍ¼¿ìÕÕ£ºD:\eclipse workspace\126Test\pic\com.wangyitest.util.YouXiangTest.youXiangShouye1-20150829-095423310.jpg
+2015-08-29 at 09:54:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 09:54:23:310£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿½áÊø======
+2015-08-29 at 09:54:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 0.127 Ãë£¡======
+2015-08-29 at 09:54:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 09:54:23:425£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿¿ªÊ¼======
+2015-08-29 at 09:54:23 CST INFO  com.wangyi.Driver.WangYiDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-29 at 09:54:23 CST ERROR com.wangyi.pages.WebdriverBaseCase 80 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿ ÔËĞĞÊ§°Ü£¬Çë²é¿´½ØÍ¼¿ìÕÕ£ºD:\eclipse workspace\126Test\pic\com.wangyitest.util.YouXiangTest.youXiangShouye2-20150829-095423444.jpg
+2015-08-29 at 09:54:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 09:54:23:444£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿½áÊø======
+2015-08-29 at 09:54:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 0.138 Ãë£¡======
+2015-08-29 at 09:54:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 09:54:23:565£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿¿ªÊ¼======
+2015-08-29 at 09:54:23 CST INFO  com.wangyi.Driver.WangYiDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-29 at 09:54:23 CST ERROR com.wangyi.pages.WebdriverBaseCase 80 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿ ÔËĞĞÊ§°Ü£¬Çë²é¿´½ØÍ¼¿ìÕÕ£ºD:\eclipse workspace\126Test\pic\com.wangyitest.util.YouXiangTest.youXiangShouye3-20150829-095423578.jpg
+2015-08-29 at 09:54:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 09:54:23:577£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿½áÊø======
+2015-08-29 at 09:54:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 0.128 Ãë£¡======
+2015-08-29 at 09:54:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 09:54:23:694£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿¿ªÊ¼======
+2015-08-29 at 09:54:23 CST INFO  com.wangyi.Driver.WangYiDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-29 at 09:54:23 CST ERROR com.wangyi.pages.WebdriverBaseCase 80 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿ ÔËĞĞÊ§°Ü£¬Çë²é¿´½ØÍ¼¿ìÕÕ£ºD:\eclipse workspace\126Test\pic\com.wangyitest.util.YouXiangTest.youXiangShouye4-20150829-095423708.jpg
+2015-08-29 at 09:54:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 09:54:23:708£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿½áÊø======
+2015-08-29 at 09:54:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 0.127 Ãë£¡======
+2015-08-29 at 09:54:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 09:54:23:822£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿¿ªÊ¼======
+2015-08-29 at 09:54:23 CST INFO  com.wangyi.Driver.WangYiDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-29 at 09:54:23 CST ERROR com.wangyi.pages.WebdriverBaseCase 80 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿ ÔËĞĞÊ§°Ü£¬Çë²é¿´½ØÍ¼¿ìÕÕ£ºD:\eclipse workspace\126Test\pic\com.wangyitest.util.YouXiangTest.youXiangShouye5-20150829-095423838.jpg
+2015-08-29 at 09:54:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 09:54:23:838£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿½áÊø======
+2015-08-29 at 09:54:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 0.134 Ãë£¡======
+2015-08-29 at 09:54:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 53 afterClass - ======2015-08-29 09:54:23:957£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿½áÊø======
+2015-08-29 at 09:54:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 54 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 21.784 Ãë£¡======
+2015-08-29 at 09:57:43 CST INFO  com.wangyi.pages.WebdriverBaseCase 47 beforeClass - ======2015-08-29 09:57:43:444£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 09:57:55 CST INFO  com.wangyi.pages.HomePage 15 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-29 at 09:57:56 CST INFO  com.wangyi.Driver.WangYiDriver 118 get - Ìø×ªµ½URL£ºhttp://www.126.com/³É¹¦
+2015-08-29 at 09:57:56 CST INFO  com.wangyi.Driver.WangYiDriver 85 operationCheck - ·½·¨ ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 09:57:56 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 09:57:56:967£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿¿ªÊ¼======
+2015-08-29 at 09:57:57 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 09:57:57 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature³É¹¦
+2015-08-29 at 09:57:57 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 09:57:57 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 09:57:57 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 09:58:02 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÕÊºÅ»òÃÜÂë´íÎó
+2015-08-29 at 09:58:02 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 09:58:02 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 09:58:02:651£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿½áÊø======
+2015-08-29 at 09:58:02 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 5.684 Ãë£¡======
+2015-08-29 at 09:58:02 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 09:58:02:653£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿¿ªÊ¼======
+2015-08-29 at 09:58:02 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 09:58:02 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 09:58:02 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 09:58:02 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850936³É¹¦
+2015-08-29 at 09:58:02 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 09:58:08 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÕÊºÅ»òÃÜÂë´íÎó
+2015-08-29 at 09:58:08 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 09:58:08 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 09:58:08:013£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿½áÊø======
+2015-08-29 at 09:58:08 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 5.362 Ãë£¡======
+2015-08-29 at 09:58:08 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 09:58:08:018£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿¿ªÊ¼======
+2015-08-29 at 09:58:08 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 09:58:08 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 09:58:08 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 09:58:08 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 09:58:08 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 09:58:13 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÏÈÊäÈëÄúµÄÓÊÏäÕÊºÅ
+2015-08-29 at 09:58:13 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 09:58:13:313£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿¿ªÊ¼======
+2015-08-29 at 09:58:13 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 09:58:13 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 09:58:13 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 09:58:13 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 09:58:13 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 09:58:18 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÊäÈëÄúµÄÃÜÂë
+2015-08-29 at 09:58:18 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 09:58:18:609£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿¿ªÊ¼======
+2015-08-29 at 09:58:18 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 09:58:18 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 09:58:18 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 09:58:18 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 09:58:18 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 09:58:23 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÏÈÊäÈëÄúµÄÓÊÏäÕÊºÅ
+2015-08-29 at 09:58:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 53 afterClass - ======2015-08-29 09:58:23:877£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿½áÊø======
+2015-08-29 at 09:58:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 54 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 40.433 Ãë£¡======
+2015-08-29 at 09:59:59 CST INFO  com.wangyi.pages.WebdriverBaseCase 47 beforeClass - ======2015-08-29 09:59:59:072£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 10:00:11 CST INFO  com.wangyi.pages.HomePage 15 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-29 at 10:00:12 CST INFO  com.wangyi.Driver.WangYiDriver 118 get - Ìø×ªµ½URL£ºhttp://www.126.com/³É¹¦
+2015-08-29 at 10:00:12 CST INFO  com.wangyi.Driver.WangYiDriver 85 operationCheck - ·½·¨ ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 10:00:12 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 10:00:12:919£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿¿ªÊ¼======
+2015-08-29 at 10:00:13 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 10:00:13 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature³É¹¦
+2015-08-29 at 10:00:13 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 10:00:13 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 10:00:13 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 10:00:18 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÕÊºÅ»òÃÜÂë´íÎó
+2015-08-29 at 10:00:18 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 10:00:18 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 10:00:18:624£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿½áÊø======
+2015-08-29 at 10:00:18 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 5.706 Ãë£¡======
+2015-08-29 at 10:00:18 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 10:00:18:626£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿¿ªÊ¼======
+2015-08-29 at 10:00:18 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 10:00:18 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 10:00:18 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 10:00:18 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850936³É¹¦
+2015-08-29 at 10:00:18 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 10:00:23 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÕÊºÅ»òÃÜÂë´íÎó
+2015-08-29 at 10:00:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 10:00:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 10:00:23:914£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿½áÊø======
+2015-08-29 at 10:00:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 5.289 Ãë£¡======
+2015-08-29 at 10:00:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 10:00:23:917£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿¿ªÊ¼======
+2015-08-29 at 10:00:23 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 10:00:24 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 10:00:24 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 10:00:24 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 10:00:24 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 10:00:29 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÏÈÊäÈëÄúµÄÓÊÏäÕÊºÅ
+2015-08-29 at 10:00:29 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 10:00:29 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 10:00:29:220£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿½áÊø======
+2015-08-29 at 10:00:29 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 5.304 Ãë£¡======
+2015-08-29 at 10:00:29 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 10:00:29:224£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿¿ªÊ¼======
+2015-08-29 at 10:00:29 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 10:00:29 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 10:00:29 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 10:00:29 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 10:00:29 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 10:00:34 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÊäÈëÄúµÄÃÜÂë
+2015-08-29 at 10:00:34 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 10:00:34 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 10:00:34:586£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿½áÊø======
+2015-08-29 at 10:00:34 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 5.363 Ãë£¡======
+2015-08-29 at 10:00:34 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 10:00:34:590£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿¿ªÊ¼======
+2015-08-29 at 10:00:34 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 10:00:34 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 10:00:34 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 10:00:34 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 10:00:34 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 10:00:39 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÏÈÊäÈëÄúµÄÓÊÏäÕÊºÅ
+2015-08-29 at 10:00:39 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 10:00:39 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 10:00:39:929£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿½áÊø======
+2015-08-29 at 10:00:39 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 5.341 Ãë£¡======
+2015-08-29 at 10:00:39 CST INFO  com.wangyi.pages.WebdriverBaseCase 53 afterClass - ======2015-08-29 10:00:39:935£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿½áÊø======
+2015-08-29 at 10:00:39 CST INFO  com.wangyi.pages.WebdriverBaseCase 54 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 40.863 Ãë£¡======
+2015-08-29 at 13:00:00 CST INFO  com.wangyi.pages.WebdriverBaseCase 47 beforeClass - ======2015-08-29 13:00:00:150£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 13:00:15 CST INFO  com.wangyi.pages.HomePage 15 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-29 at 13:00:19 CST INFO  com.wangyi.Driver.WangYiDriver 118 get - Ìø×ªµ½URL£ºhttp://www.126.com/³É¹¦
+2015-08-29 at 13:00:19 CST INFO  com.wangyi.Driver.WangYiDriver 85 operationCheck - ·½·¨ ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 13:00:19 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 13:00:19:508£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿¿ªÊ¼======
+2015-08-29 at 13:00:19 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 13:00:19 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature³É¹¦
+2015-08-29 at 13:00:19 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 13:00:20 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 13:00:20 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 13:00:25 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÕÊºÅ»òÃÜÂë´íÎó
+2015-08-29 at 13:00:25 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 13:00:25 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 13:00:25:218£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿½áÊø======
+2015-08-29 at 13:00:25 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 5.711 Ãë£¡======
+2015-08-29 at 13:00:25 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 13:00:25:221£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿¿ªÊ¼======
+2015-08-29 at 13:00:25 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 13:00:25 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 13:00:25 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 13:00:25 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850936³É¹¦
+2015-08-29 at 13:00:25 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 13:00:30 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÕÊºÅ»òÃÜÂë´íÎó
+2015-08-29 at 13:00:30 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 13:00:30 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 13:00:30:534£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿½áÊø======
+2015-08-29 at 13:00:30 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 5.314 Ãë£¡======
+2015-08-29 at 13:00:30 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 13:00:30:537£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿¿ªÊ¼======
+2015-08-29 at 13:00:30 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 13:00:30 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 13:00:30 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 13:00:30 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 13:00:30 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 13:00:35 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÏÈÊäÈëÄúµÄÓÊÏäÕÊºÅ
+2015-08-29 at 13:00:35 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 13:00:35 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 13:00:35:853£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿½áÊø======
+2015-08-29 at 13:00:35 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 5.317 Ãë£¡======
+2015-08-29 at 13:00:35 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 13:00:35:856£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿¿ªÊ¼======
+2015-08-29 at 13:00:35 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 13:00:35 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 13:00:35 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 13:00:36 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 13:00:36 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 13:00:41 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÊäÈëÄúµÄÃÜÂë
+2015-08-29 at 13:00:41 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 13:00:41 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 13:00:41:225£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿½áÊø======
+2015-08-29 at 13:00:41 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 5.372 Ãë£¡======
+2015-08-29 at 13:00:41 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 13:00:41:231£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿¿ªÊ¼======
+2015-08-29 at 13:00:41 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 13:00:41 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 13:00:41 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 13:00:41 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 13:00:41 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 13:00:46 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÏÈÊäÈëÄúµÄÓÊÏäÕÊºÅ
+2015-08-29 at 13:00:46 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 13:00:46 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 13:00:46:584£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿½áÊø======
+2015-08-29 at 13:00:46 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 5.354 Ãë£¡======
+2015-08-29 at 13:00:46 CST INFO  com.wangyi.pages.WebdriverBaseCase 53 afterClass - ======2015-08-29 13:00:46:587£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿½áÊø======
+2015-08-29 at 13:00:46 CST INFO  com.wangyi.pages.WebdriverBaseCase 54 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 46.437 Ãë£¡======
+2015-08-29 at 13:01:58 CST INFO  com.wangyi.pages.WebdriverBaseCase 47 beforeClass - ======2015-08-29 13:01:58:621£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 13:02:11 CST INFO  com.wangyi.pages.HomePage 15 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-29 at 13:02:12 CST INFO  com.wangyi.Driver.WangYiDriver 118 get - Ìø×ªµ½URL£ºhttp://www.126.com/³É¹¦
+2015-08-29 at 13:02:12 CST INFO  com.wangyi.Driver.WangYiDriver 85 operationCheck - ·½·¨ ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 13:02:12 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 13:02:12:716£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿¿ªÊ¼======
+2015-08-29 at 13:02:13 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 13:02:13 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature³É¹¦
+2015-08-29 at 13:02:13 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 13:02:13 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 13:02:13 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 13:02:18 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÕÊºÅ»òÃÜÂë´íÎó
+2015-08-29 at 13:02:18 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 13:02:18 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 13:02:18:762£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿½áÊø======
+2015-08-29 at 13:02:18 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 6.046 Ãë£¡======
+2015-08-29 at 13:02:18 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 13:02:18:764£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿¿ªÊ¼======
+2015-08-29 at 13:02:18 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 13:02:18 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 13:02:18 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 13:02:18 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850936³É¹¦
+2015-08-29 at 13:02:19 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 13:02:24 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÕÊºÅ»òÃÜÂë´íÎó
+2015-08-29 at 13:02:24 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 13:02:24 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 13:02:24:082£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿½áÊø======
+2015-08-29 at 13:02:24 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 5.319 Ãë£¡======
+2015-08-29 at 13:02:24 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 13:02:24:086£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿¿ªÊ¼======
+2015-08-29 at 13:02:24 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 13:02:24 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 13:02:24 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 13:02:24 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 13:02:24 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 13:02:29 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÏÈÊäÈëÄúµÄÓÊÏäÕÊºÅ
+2015-08-29 at 13:02:29 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 13:02:29 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 13:02:29:433£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿½áÊø======
+2015-08-29 at 13:02:29 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 5.348 Ãë£¡======
+2015-08-29 at 13:02:29 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 13:02:29:437£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿¿ªÊ¼======
+2015-08-29 at 13:02:29 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 13:02:29 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 13:02:29 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 13:02:29 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 13:02:29 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 13:02:34 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÊäÈëÄúµÄÃÜÂë
+2015-08-29 at 13:02:34 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 13:02:34 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 13:02:34:917£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿½áÊø======
+2015-08-29 at 13:02:34 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 5.481 Ãë£¡======
+2015-08-29 at 13:02:34 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 13:02:34:921£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿¿ªÊ¼======
+2015-08-29 at 13:02:34 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 13:02:35 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 13:02:35 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 13:02:35 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 13:02:35 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 13:02:40 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÏÈÊäÈëÄúµÄÓÊÏäÕÊºÅ
+2015-08-29 at 13:02:40 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 13:02:40 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 13:02:40:275£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿½áÊø======
+2015-08-29 at 13:02:40 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 5.355 Ãë£¡======
+2015-08-29 at 13:02:40 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 13:02:40:279£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿¿ªÊ¼======
+2015-08-29 at 13:02:40 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 13:02:40 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 13:02:40 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 13:02:40 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 13:02:40 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 13:02:45 CST INFO  com.wangyi.Driver.WangYiDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-29 at 13:02:45 CST ERROR com.wangyi.pages.WebdriverBaseCase 80 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿ ÔËĞĞÊ§°Ü£¬Çë²é¿´½ØÍ¼¿ìÕÕ£ºD:\eclipse workspace\126Test\pic\com.wangyitest.util.YouXiangTest.youXiangShouye-20150829-130245634.jpg
+2015-08-29 at 13:02:45 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 13:02:45:633£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿½áÊø======
+2015-08-29 at 13:02:45 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 5.529 Ãë£¡======
+2015-08-29 at 13:02:45 CST INFO  com.wangyi.pages.WebdriverBaseCase 53 afterClass - ======2015-08-29 13:02:45:809£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿½áÊø======
+2015-08-29 at 13:02:45 CST INFO  com.wangyi.pages.WebdriverBaseCase 54 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 47.188 Ãë£¡======
+2015-08-29 at 13:04:10 CST INFO  com.wangyi.pages.WebdriverBaseCase 47 beforeClass - ======2015-08-29 13:04:10:963£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 13:04:28 CST INFO  com.wangyi.pages.WebdriverBaseCase 47 beforeClass - ======2015-08-29 13:04:28:816£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 13:05:22 CST INFO  com.wangyi.pages.WebdriverBaseCase 47 beforeClass - ======2015-08-29 13:05:22:485£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 13:05:25 CST INFO  com.wangyi.pages.HomePage 15 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-29 at 13:05:48 CST INFO  com.wangyi.Driver.WangYiDriver 118 get - Ìø×ªµ½URL£ºhttp://www.126.com/³É¹¦
+2015-08-29 at 13:05:48 CST INFO  com.wangyi.Driver.WangYiDriver 85 operationCheck - ·½·¨ ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 13:05:48 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 13:05:48:019£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿¿ªÊ¼======
+2015-08-29 at 13:05:48 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 13:05:48 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature³É¹¦
+2015-08-29 at 13:05:48 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 13:05:48 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 13:05:53 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 13:05:58 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÕÊºÅ»òÃÜÂë´íÎó
+2015-08-29 at 13:05:58 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 13:05:58 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 13:05:58:464£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿½áÊø======
+2015-08-29 at 13:05:58 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 10.446 Ãë£¡======
+2015-08-29 at 13:05:58 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 13:05:58:466£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿¿ªÊ¼======
+2015-08-29 at 13:05:58 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 13:05:59 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 13:05:59 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 13:05:59 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850936³É¹¦
+2015-08-29 at 13:06:00 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 13:06:05 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÕÊºÅ»òÃÜÂë´íÎó
+2015-08-29 at 13:06:05 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 13:06:05 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 13:06:05:370£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿½áÊø======
+2015-08-29 at 13:06:05 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 6.904 Ãë£¡======
+2015-08-29 at 13:06:05 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 13:06:05:371£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿¿ªÊ¼======
+2015-08-29 at 13:06:05 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 13:06:05 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 13:06:06 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 13:06:06 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 13:06:06 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 13:06:11 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÏÈÊäÈëÄúµÄÓÊÏäÕÊºÅ
+2015-08-29 at 13:06:11 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 13:06:11 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 13:06:11:789£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿½áÊø======
+2015-08-29 at 13:06:11 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 6.418 Ãë£¡======
+2015-08-29 at 13:06:11 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 13:06:11:790£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿¿ªÊ¼======
+2015-08-29 at 13:06:11 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 13:06:12 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 13:06:12 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 13:06:12 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 13:06:13 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 13:06:18 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÊäÈëÄúµÄÃÜÂë
+2015-08-29 at 13:06:18 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 13:06:18 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 13:06:18:286£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿½áÊø======
+2015-08-29 at 13:06:18 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 6.496 Ãë£¡======
+2015-08-29 at 13:06:18 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 13:06:18:287£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿¿ªÊ¼======
+2015-08-29 at 13:06:18 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 13:06:18 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 13:06:18 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 13:06:19 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 13:06:19 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 13:06:24 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÏÈÊäÈëÄúµÄÓÊÏäÕÊºÅ
+2015-08-29 at 13:06:24 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 13:06:24 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 13:06:24:973£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿½áÊø======
+2015-08-29 at 13:06:24 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 6.686 Ãë£¡======
+2015-08-29 at 13:06:24 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 13:06:24:974£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿¿ªÊ¼======
+2015-08-29 at 13:06:25 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 13:06:25 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 13:06:26 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 13:06:26 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 13:06:29 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 13:06:35 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: .//*[@id='spnUid'] ]µÄ ÄÚÈİÊÇ: nature0805@126.com
+2015-08-29 at 13:06:35 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 13:06:35 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 13:06:35:022£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿½áÊø======
+2015-08-29 at 13:06:35 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 10.049 Ãë£¡======
+2015-08-29 at 13:06:35 CST INFO  com.wangyi.pages.WebdriverBaseCase 53 afterClass - ======2015-08-29 13:06:35:024£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿½áÊø======
+2015-08-29 at 13:06:35 CST INFO  com.wangyi.pages.WebdriverBaseCase 54 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 72.539 Ãë£¡======
+2015-08-29 at 13:08:59 CST INFO  com.wangyi.pages.WebdriverBaseCase 47 beforeClass - ======2015-08-29 13:08:59:790£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 13:09:02 CST INFO  com.wangyi.pages.HomePage 15 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-29 at 13:09:03 CST INFO  com.wangyi.Driver.WangYiDriver 118 get - Ìø×ªµ½URL£ºhttp://www.126.com/³É¹¦
+2015-08-29 at 13:09:03 CST INFO  com.wangyi.Driver.WangYiDriver 85 operationCheck - ·½·¨ ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 13:09:03 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 13:09:03:910£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿¿ªÊ¼======
+2015-08-29 at 13:09:04 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 13:09:04 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature³É¹¦
+2015-08-29 at 13:09:04 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 13:09:04 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 13:09:05 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 13:09:10 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÕÊºÅ»òÃÜÂë´íÎó
+2015-08-29 at 13:09:10 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 13:09:10 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 13:09:10:835£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿½áÊø======
+2015-08-29 at 13:09:10 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 6.926 Ãë£¡======
+2015-08-29 at 13:09:10 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 13:09:10:837£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿¿ªÊ¼======
+2015-08-29 at 13:09:11 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 13:09:11 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 13:09:11 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 13:09:11 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850936³É¹¦
+2015-08-29 at 13:09:12 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 13:09:17 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÕÊºÅ»òÃÜÂë´íÎó
+2015-08-29 at 13:09:17 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 13:09:17 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 13:09:17:568£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿½áÊø======
+2015-08-29 at 13:09:17 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 6.731 Ãë£¡======
+2015-08-29 at 13:09:17 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 13:09:17:569£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿¿ªÊ¼======
+2015-08-29 at 13:09:17 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 13:09:17 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 13:09:18 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 13:09:18 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 13:09:18 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 13:09:24 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÏÈÊäÈëÄúµÄÓÊÏäÕÊºÅ
+2015-08-29 at 13:09:24 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 13:09:24 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 13:09:24:024£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿½áÊø======
+2015-08-29 at 13:09:24 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 6.456 Ãë£¡======
+2015-08-29 at 13:09:24 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 13:09:24:026£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿¿ªÊ¼======
+2015-08-29 at 13:09:24 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 13:09:24 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 13:09:24 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 13:09:24 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 13:09:25 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 13:09:30 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÊäÈëÄúµÄÃÜÂë
+2015-08-29 at 13:09:30 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 13:09:30 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 13:09:30:455£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿½áÊø======
+2015-08-29 at 13:09:30 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 6.429 Ãë£¡======
+2015-08-29 at 13:09:30 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 13:09:30:456£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿¿ªÊ¼======
+2015-08-29 at 13:09:30 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 13:09:30 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 13:09:31 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 13:09:31 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 13:09:31 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 13:09:36 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÏÈÊäÈëÄúµÄÓÊÏäÕÊºÅ
+2015-08-29 at 13:09:36 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 13:09:36 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 13:09:36:910£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿½áÊø======
+2015-08-29 at 13:09:36 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 6.454 Ãë£¡======
+2015-08-29 at 13:09:36 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 13:09:36:911£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿¿ªÊ¼======
+2015-08-29 at 13:09:37 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 13:09:37 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 13:09:37 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 13:09:37 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 13:09:40 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 13:09:46 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: .//*[@id='spnUid'] ]µÄ ÄÚÈİÊÇ: nature0805@126.com
+2015-08-29 at 13:09:46 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 13:09:46 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 13:09:46:128£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿½áÊø======
+2015-08-29 at 13:09:46 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 9.217 Ãë£¡======
+2015-08-29 at 13:09:46 CST INFO  com.wangyi.pages.WebdriverBaseCase 53 afterClass - ======2015-08-29 13:09:46:129£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿½áÊø======
+2015-08-29 at 13:09:46 CST INFO  com.wangyi.pages.WebdriverBaseCase 54 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 46.339 Ãë£¡======
+2015-08-29 at 15:31:19 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - åŠ è½½    D:\eclipse workspace\126Test\data\shoye.propertiesæˆåŠŸ
+2015-08-29 at 15:49:24 CST INFO  com.wangyi.pages.WebdriverBaseCase 47 beforeClass - ======2015-08-29 15:49:24:525£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 15:49:24 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - ¼ÓÔØ    D:\eclipse workspace\126Test\data\shoye.properties³É¹¦
+2015-08-29 at 15:49:27 CST INFO  com.wangyi.pages.HomePage 15 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-29 at 15:49:28 CST INFO  com.wangyi.Driver.WangYiDriver 118 get - Ìø×ªµ½URL£ºhttp://www.126.com/³É¹¦
+2015-08-29 at 15:49:28 CST INFO  com.wangyi.Driver.WangYiDriver 85 operationCheck - ·½·¨ ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 15:49:28 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 15:49:28:287£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿¿ªÊ¼======
+2015-08-29 at 15:49:28 CST INFO  com.wangyi.Driver.WangYiDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-29 at 15:49:28 CST ERROR com.wangyi.pages.WebdriverBaseCase 80 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿ ÔËĞĞÊ§°Ü£¬Çë²é¿´½ØÍ¼¿ìÕÕ£ºD:\eclipse workspace\126Test\pic\com.wangyitest.util.YouXiangTest.youXiangShouye1-20150829-154928355.jpg
+2015-08-29 at 15:49:28 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 15:49:28:355£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿½áÊø======
+2015-08-29 at 15:49:28 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 0.364 Ãë£¡======
+2015-08-29 at 15:49:28 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 15:49:28:652£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿¿ªÊ¼======
+2015-08-29 at 15:49:28 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 15:49:29 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 15:49:29 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 15:49:29 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850936³É¹¦
+2015-08-29 at 15:49:29 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 15:49:35 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÕÊºÅ»òÃÜÂë´íÎó
+2015-08-29 at 15:49:35 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 15:49:35 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 15:49:35:026£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿½áÊø======
+2015-08-29 at 15:49:35 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 6.375 Ãë£¡======
+2015-08-29 at 15:49:35 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 15:49:35:028£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿¿ªÊ¼======
+2015-08-29 at 15:49:35 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 15:49:35 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 15:49:35 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 15:49:35 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 15:49:36 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 15:49:41 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÏÈÊäÈëÄúµÄÓÊÏäÕÊºÅ
+2015-08-29 at 15:49:41 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 15:49:41 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 15:49:41:675£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿½áÊø======
+2015-08-29 at 15:49:41 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 6.647 Ãë£¡======
+2015-08-29 at 15:49:41 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 15:49:41:676£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿¿ªÊ¼======
+2015-08-29 at 15:49:41 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 15:49:42 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 15:49:42 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 15:49:42 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 15:49:42 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 15:49:48 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÊäÈëÄúµÄÃÜÂë
+2015-08-29 at 15:49:48 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 15:49:48 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 15:49:48:249£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿½áÊø======
+2015-08-29 at 15:49:48 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 6.573 Ãë£¡======
+2015-08-29 at 15:49:48 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 15:49:48:251£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿¿ªÊ¼======
+2015-08-29 at 15:49:48 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 15:49:48 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 15:49:48 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 15:49:49 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 15:49:49 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 15:49:54 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÏÈÊäÈëÄúµÄÓÊÏäÕÊºÅ
+2015-08-29 at 15:49:54 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 15:49:54 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 15:49:54:734£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿½áÊø======
+2015-08-29 at 15:49:54 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 6.483 Ãë£¡======
+2015-08-29 at 15:49:54 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 15:49:54:736£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿¿ªÊ¼======
+2015-08-29 at 15:49:54 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 15:49:55 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 15:49:55 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 15:49:55 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 15:49:56 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 15:50:02 CST INFO  com.wangyi.Driver.WangYiDriver 64 TakeScreenShot - ½ØÍ¼³É¹¦
+2015-08-29 at 15:50:02 CST ERROR com.wangyi.pages.WebdriverBaseCase 80 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿ ÔËĞĞÊ§°Ü£¬Çë²é¿´½ØÍ¼¿ìÕÕ£ºD:\eclipse workspace\126Test\pic\com.wangyitest.util.YouXiangTest.youXiangShouye-20150829-155002253.jpg
+2015-08-29 at 15:50:02 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 15:50:02:253£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿½áÊø======
+2015-08-29 at 15:50:02 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 7.744 Ãë£¡======
+2015-08-29 at 15:50:02 CST INFO  com.wangyi.pages.WebdriverBaseCase 53 afterClass - ======2015-08-29 15:50:02:481£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿½áÊø======
+2015-08-29 at 15:50:02 CST INFO  com.wangyi.pages.WebdriverBaseCase 54 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 37.956 Ãë£¡======
+2015-08-29 at 15:51:01 CST INFO  com.wangyi.pages.WebdriverBaseCase 47 beforeClass - ======2015-08-29 15:51:01:459£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 15:51:01 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - ¼ÓÔØ    D:\eclipse workspace\126Test\data\shoye.properties³É¹¦
+2015-08-29 at 15:51:04 CST INFO  com.wangyi.pages.HomePage 15 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-29 at 15:51:04 CST INFO  com.wangyi.Driver.WangYiDriver 118 get - Ìø×ªµ½URL£ºhttp://www.126.com/³É¹¦
+2015-08-29 at 15:51:04 CST INFO  com.wangyi.Driver.WangYiDriver 85 operationCheck - ·½·¨ ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 15:51:04 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 15:51:04:749£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿¿ªÊ¼======
+2015-08-29 at 15:51:05 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 15:51:05 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature³É¹¦
+2015-08-29 at 15:51:05 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 15:51:05 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 15:51:06 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 15:51:11 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÕÊºÅ»òÃÜÂë´íÎó
+2015-08-29 at 15:51:11 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 15:51:11 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 15:51:11:907£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿½áÊø======
+2015-08-29 at 15:51:11 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 7.159 Ãë£¡======
+2015-08-29 at 15:51:11 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 15:51:11:909£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿¿ªÊ¼======
+2015-08-29 at 15:51:12 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 15:51:12 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 15:51:12 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 15:51:12 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850936³É¹¦
+2015-08-29 at 15:51:13 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 15:51:18 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÕÊºÅ»òÃÜÂë´íÎó
+2015-08-29 at 15:51:18 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 15:51:18 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 15:51:18:901£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿½áÊø======
+2015-08-29 at 15:51:18 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 6.992 Ãë£¡======
+2015-08-29 at 15:51:18 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 15:51:18:903£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿¿ªÊ¼======
+2015-08-29 at 15:51:19 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 15:51:19 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 15:51:19 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 15:51:19 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 15:51:20 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 15:51:25 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÏÈÊäÈëÄúµÄÓÊÏäÕÊºÅ
+2015-08-29 at 15:51:25 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 15:51:25 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 15:51:25:463£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿½áÊø======
+2015-08-29 at 15:51:25 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 6.56 Ãë£¡======
+2015-08-29 at 15:51:25 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 15:51:25:464£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿¿ªÊ¼======
+2015-08-29 at 15:51:25 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 15:51:25 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 15:51:26 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 15:51:26 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 15:51:27 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 15:51:32 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÊäÈëÄúµÄÃÜÂë
+2015-08-29 at 15:51:32 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 15:51:32 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 15:51:32:240£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿½áÊø======
+2015-08-29 at 15:51:32 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 6.776 Ãë£¡======
+2015-08-29 at 15:51:32 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 15:51:32:241£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿¿ªÊ¼======
+2015-08-29 at 15:51:32 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 15:51:32 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 15:51:32 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 15:51:33 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 15:51:33 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 15:51:38 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÏÈÊäÈëÄúµÄÓÊÏäÕÊºÅ
+2015-08-29 at 15:51:38 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 15:51:38 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 15:51:38:650£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿½áÊø======
+2015-08-29 at 15:51:38 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 6.409 Ãë£¡======
+2015-08-29 at 15:51:38 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 15:51:38:652£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿¿ªÊ¼======
+2015-08-29 at 15:51:38 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 15:51:39 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 15:51:39 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 15:51:39 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 15:51:40 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 15:51:45 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: .//*[@id='spnUid'] ]µÄ ÄÚÈİÊÇ: nature0805@126.com
+2015-08-29 at 15:51:45 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 15:51:45 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 15:51:45:852£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿½áÊø======
+2015-08-29 at 15:51:45 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 7.2 Ãë£¡======
+2015-08-29 at 15:51:45 CST INFO  com.wangyi.pages.WebdriverBaseCase 53 afterClass - ======2015-08-29 15:51:45:853£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿½áÊø======
+2015-08-29 at 15:51:45 CST INFO  com.wangyi.pages.WebdriverBaseCase 54 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 44.394 Ãë£¡======
+2015-08-29 at 16:12:26 CST INFO  com.wangyi.pages.WebdriverBaseCase 47 beforeClass - ======2015-08-29 16:12:26:472£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 16:12:29 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - ¼ÓÔØ    D:\eclipse workspace\126Test\data\shoye.properties³É¹¦
+2015-08-29 at 16:12:29 CST INFO  com.wangyi.pages.HomePage 20 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-29 at 16:12:58 CST INFO  com.wangyi.pages.WebdriverBaseCase 47 beforeClass - ======2015-08-29 16:12:58:742£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 16:13:01 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - ¼ÓÔØ    D:\eclipse workspace\126Test\data\shoye.properties³É¹¦
+2015-08-29 at 16:13:01 CST INFO  com.wangyi.pages.HomePage 20 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-29 at 16:13:59 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - ¼ÓÔØ    D:\eclipse workspace\126Test\data\shoye.properties³É¹¦
+2015-08-29 at 16:13:59 CST INFO  com.wangyi.pages.WebdriverBaseCase 47 beforeClass - ======2015-08-29 16:13:59:947£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 16:14:02 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - ¼ÓÔØ    D:\eclipse workspace\126Test\data\shoye.properties³É¹¦
+2015-08-29 at 16:14:02 CST INFO  com.wangyi.pages.HomePage 20 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-29 at 16:14:03 CST INFO  com.wangyi.Driver.WangYiDriver 118 get - Ìø×ªµ½URL£ºhttp://www.126.com/³É¹¦
+2015-08-29 at 16:14:03 CST INFO  com.wangyi.Driver.WangYiDriver 85 operationCheck - ·½·¨ ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 16:14:03 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 16:14:03:919£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿¿ªÊ¼======
+2015-08-29 at 16:14:04 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 16:14:04 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature³É¹¦
+2015-08-29 at 16:14:04 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 16:14:04 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 16:14:05 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 16:14:05 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - ¼ÓÔØ    D:\eclipse workspace\126Test\data\youxiang.properties³É¹¦
+2015-08-29 at 16:14:10 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÊäÈëÄúµÄÃÜÂë
+2015-08-29 at 16:14:10 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 16:14:10:337£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿¿ªÊ¼======
+2015-08-29 at 16:14:10 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 16:14:10 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 16:14:11 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 16:14:11 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850936³É¹¦
+2015-08-29 at 16:14:11 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 16:14:11 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - ¼ÓÔØ    D:\eclipse workspace\126Test\data\youxiang.properties³É¹¦
+2015-08-29 at 16:14:16 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÊäÈëÄúµÄÃÜÂë
+2015-08-29 at 16:14:16 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 16:14:16:894£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿¿ªÊ¼======
+2015-08-29 at 16:14:17 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 16:14:17 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 16:14:17 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 16:14:17 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 16:14:18 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 16:14:18 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - ¼ÓÔØ    D:\eclipse workspace\126Test\data\youxiang.properties³É¹¦
+2015-08-29 at 16:14:23 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÏÈÊäÈëÄúµÄÓÊÏäÕÊºÅ
+2015-08-29 at 16:14:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 16:14:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 16:14:23:453£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿½áÊø======
+2015-08-29 at 16:14:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 6.559 Ãë£¡======
+2015-08-29 at 16:14:23 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 16:14:23:455£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿¿ªÊ¼======
+2015-08-29 at 16:14:23 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 16:14:23 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 16:14:24 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 16:14:24 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 16:14:24 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 16:14:24 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - ¼ÓÔØ    D:\eclipse workspace\126Test\data\youxiang.properties³É¹¦
+2015-08-29 at 16:14:29 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÏÈÊäÈëÄúµÄÓÊÏäÕÊºÅ
+2015-08-29 at 16:14:29 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 16:14:29:914£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿¿ªÊ¼======
+2015-08-29 at 16:14:30 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 16:14:30 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 16:14:30 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 16:14:30 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 16:14:31 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 16:14:31 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - ¼ÓÔØ    D:\eclipse workspace\126Test\data\youxiang.properties³É¹¦
+2015-08-29 at 16:15:28 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - ¼ÓÔØ    D:\eclipse workspace\126Test\data\shoye.properties³É¹¦
+2015-08-29 at 16:15:28 CST INFO  com.wangyi.pages.WebdriverBaseCase 47 beforeClass - ======2015-08-29 16:15:28:422£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-08-29 at 16:15:31 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - ¼ÓÔØ    D:\eclipse workspace\126Test\data\shoye.properties³É¹¦
+2015-08-29 at 16:15:31 CST INFO  com.wangyi.pages.HomePage 20 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-08-29 at 16:15:32 CST INFO  com.wangyi.Driver.WangYiDriver 118 get - Ìø×ªµ½URL£ºhttp://www.126.com/³É¹¦
+2015-08-29 at 16:15:32 CST INFO  com.wangyi.Driver.WangYiDriver 85 operationCheck - ·½·¨ ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 16:15:32 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 16:15:32:157£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿¿ªÊ¼======
+2015-08-29 at 16:15:32 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 16:15:32 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature³É¹¦
+2015-08-29 at 16:15:32 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 16:15:33 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 16:15:33 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 16:15:33 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - ¼ÓÔØ    D:\eclipse workspace\126Test\data\youxiang.properties³É¹¦
+2015-08-29 at 16:15:39 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÕÊºÅ»òÃÜÂë´íÎó
+2015-08-29 at 16:15:39 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 16:15:39 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 16:15:39:119£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿½áÊø======
+2015-08-29 at 16:15:39 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 6.962 Ãë£¡======
+2015-08-29 at 16:15:39 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 16:15:39:121£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿¿ªÊ¼======
+2015-08-29 at 16:15:39 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 16:15:39 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 16:15:39 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 16:15:40 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850936³É¹¦
+2015-08-29 at 16:15:40 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 16:15:40 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - ¼ÓÔØ    D:\eclipse workspace\126Test\data\youxiang.properties³É¹¦
+2015-08-29 at 16:15:46 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÕÊºÅ»òÃÜÂë´íÎó
+2015-08-29 at 16:15:46 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 16:15:46 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 16:15:46:038£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿½áÊø======
+2015-08-29 at 16:15:46 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 6.918 Ãë£¡======
+2015-08-29 at 16:15:46 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 16:15:46:040£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿¿ªÊ¼======
+2015-08-29 at 16:15:46 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 16:15:46 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 16:15:47 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 16:15:47 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 16:15:47 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 16:15:47 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - ¼ÓÔØ    D:\eclipse workspace\126Test\data\youxiang.properties³É¹¦
+2015-08-29 at 16:15:52 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÏÈÊäÈëÄúµÄÓÊÏäÕÊºÅ
+2015-08-29 at 16:15:52 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 16:15:52 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 16:15:52:750£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿½áÊø======
+2015-08-29 at 16:15:52 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 6.71 Ãë£¡======
+2015-08-29 at 16:15:52 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 16:15:52:751£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿¿ªÊ¼======
+2015-08-29 at 16:15:52 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 16:15:53 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 16:15:53 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 16:15:53 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 16:15:54 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 16:15:54 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - ¼ÓÔØ    D:\eclipse workspace\126Test\data\youxiang.properties³É¹¦
+2015-08-29 at 16:15:59 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÊäÈëÄúµÄÃÜÂë
+2015-08-29 at 16:15:59 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 16:15:59 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 16:15:59:216£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿½áÊø======
+2015-08-29 at 16:15:59 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 6.465 Ãë£¡======
+2015-08-29 at 16:15:59 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 16:15:59:218£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿¿ªÊ¼======
+2015-08-29 at 16:15:59 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 16:15:59 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-08-29 at 16:15:59 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 16:16:00 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 16:16:00 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 16:16:00 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - ¼ÓÔØ    D:\eclipse workspace\126Test\data\youxiang.properties³É¹¦
+2015-08-29 at 16:16:05 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÏÈÊäÈëÄúµÄÓÊÏäÕÊºÅ
+2015-08-29 at 16:16:05 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 16:16:05 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 16:16:05:711£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿½áÊø======
+2015-08-29 at 16:16:05 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 6.493 Ãë£¡======
+2015-08-29 at 16:16:05 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-08-29 16:16:05:713£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿¿ªÊ¼======
+2015-08-29 at 16:16:05 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-08-29 at 16:16:06 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-08-29 at 16:16:06 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-08-29 at 16:16:06 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-08-29 at 16:16:07 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-08-29 at 16:16:07 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - ¼ÓÔØ    D:\eclipse workspace\126Test\data\youxiang.properties³É¹¦
+2015-08-29 at 16:16:12 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: .//*[@id='spnUid'] ]µÄ ÄÚÈİÊÇ: nature0805@126.com
+2015-08-29 at 16:16:12 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-08-29 at 16:16:12 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-08-29 16:16:12:944£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿½áÊø======
+2015-08-29 at 16:16:12 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 7.232 Ãë£¡======
+2015-08-29 at 16:16:12 CST INFO  com.wangyi.pages.WebdriverBaseCase 53 afterClass - ======2015-08-29 16:16:12:946£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿½áÊø======
+2015-08-29 at 16:16:12 CST INFO  com.wangyi.pages.WebdriverBaseCase 54 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 44.524 Ãë£¡======
+2015-09-20 at 18:45:42 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - ¼ÓÔØ    D:\eclipse workspace\126Test\data\shoye.properties³É¹¦
+2015-09-20 at 18:45:42 CST INFO  com.wangyi.pages.WebdriverBaseCase 47 beforeClass - ======2015-09-20 18:45:42:986£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿¿ªÊ¼======
+2015-09-20 at 18:45:47 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - ¼ÓÔØ    D:\eclipse workspace\126Test\data\shoye.properties³É¹¦
+2015-09-20 at 18:45:47 CST INFO  com.wangyi.pages.HomePage 20 <init> - ³õÊ¼»¯HomePageÀà³É¹¦£¡
+2015-09-20 at 18:45:52 CST INFO  com.wangyi.Driver.WangYiDriver 118 get - Ìø×ªµ½URL£ºhttp://www.126.com/³É¹¦
+2015-09-20 at 18:45:52 CST INFO  com.wangyi.Driver.WangYiDriver 85 operationCheck - ·½·¨ ¡¾get¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-09-20 at 18:45:52 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-09-20 18:45:52:028£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿¿ªÊ¼======
+2015-09-20 at 18:45:52 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-09-20 at 18:45:52 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature³É¹¦
+2015-09-20 at 18:45:52 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-09-20 at 18:45:53 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-09-20 at 18:45:54 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-09-20 at 18:45:54 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - ¼ÓÔØ    D:\eclipse workspace\126Test\data\youxiang.properties³É¹¦
+2015-09-20 at 18:45:54 CST INFO  com.wangyi.pages.YouXiang 21 <init> - ³õÊ¼»¯YouXiangÀà³É¹¦£¡
+2015-09-20 at 18:45:59 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÕÊºÅ»òÃÜÂë´íÎó
+2015-09-20 at 18:45:59 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-09-20 at 18:45:59 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-09-20 18:45:59:575£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye1¡¿½áÊø======
+2015-09-20 at 18:45:59 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 7.548 Ãë£¡======
+2015-09-20 at 18:45:59 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-09-20 18:45:59:577£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿¿ªÊ¼======
+2015-09-20 at 18:45:59 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-09-20 at 18:46:00 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-09-20 at 18:46:00 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-09-20 at 18:46:00 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850936³É¹¦
+2015-09-20 at 18:46:01 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-09-20 at 18:46:01 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - ¼ÓÔØ    D:\eclipse workspace\126Test\data\youxiang.properties³É¹¦
+2015-09-20 at 18:46:01 CST INFO  com.wangyi.pages.YouXiang 21 <init> - ³õÊ¼»¯YouXiangÀà³É¹¦£¡
+2015-09-20 at 18:46:06 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÕÊºÅ»òÃÜÂë´íÎó
+2015-09-20 at 18:46:06 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-09-20 at 18:46:06 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-09-20 18:46:06:578£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye2¡¿½áÊø======
+2015-09-20 at 18:46:06 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 7.001 Ãë£¡======
+2015-09-20 at 18:46:06 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-09-20 18:46:06:580£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿¿ªÊ¼======
+2015-09-20 at 18:46:06 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-09-20 at 18:46:07 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-09-20 at 18:46:07 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-09-20 at 18:46:08 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-09-20 at 18:46:08 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-09-20 at 18:46:08 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - ¼ÓÔØ    D:\eclipse workspace\126Test\data\youxiang.properties³É¹¦
+2015-09-20 at 18:46:08 CST INFO  com.wangyi.pages.YouXiang 21 <init> - ³õÊ¼»¯YouXiangÀà³É¹¦£¡
+2015-09-20 at 18:46:13 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÏÈÊäÈëÄúµÄÓÊÏäÕÊºÅ
+2015-09-20 at 18:46:13 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-09-20 at 18:46:13 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-09-20 18:46:13:740£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye3¡¿½áÊø======
+2015-09-20 at 18:46:13 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 7.16 Ãë£¡======
+2015-09-20 at 18:46:13 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-09-20 18:46:13:742£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿¿ªÊ¼======
+2015-09-20 at 18:46:13 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-09-20 at 18:46:14 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-09-20 at 18:46:14 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-09-20 at 18:46:14 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-09-20 at 18:46:15 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-09-20 at 18:46:15 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - ¼ÓÔØ    D:\eclipse workspace\126Test\data\youxiang.properties³É¹¦
+2015-09-20 at 18:46:15 CST INFO  com.wangyi.pages.YouXiang 21 <init> - ³õÊ¼»¯YouXiangÀà³É¹¦£¡
+2015-09-20 at 18:46:20 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÊäÈëÄúµÄÃÜÂë
+2015-09-20 at 18:46:20 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-09-20 at 18:46:20 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-09-20 18:46:20:323£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye4¡¿½áÊø======
+2015-09-20 at 18:46:20 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 6.581 Ãë£¡======
+2015-09-20 at 18:46:20 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-09-20 18:46:20:324£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿¿ªÊ¼======
+2015-09-20 at 18:46:20 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-09-20 at 18:46:20 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ³É¹¦
+2015-09-20 at 18:46:21 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-09-20 at 18:46:21 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-09-20 at 18:46:21 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-09-20 at 18:46:21 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - ¼ÓÔØ    D:\eclipse workspace\126Test\data\youxiang.properties³É¹¦
+2015-09-20 at 18:46:21 CST INFO  com.wangyi.pages.YouXiang 21 <init> - ³õÊ¼»¯YouXiangÀà³É¹¦£¡
+2015-09-20 at 18:46:26 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: //div[@class='error-tt']/p ]µÄ ÄÚÈİÊÇ: ÇëÏÈÊäÈëÄúµÄÓÊÏäÕÊºÅ
+2015-09-20 at 18:46:26 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-09-20 at 18:46:26 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-09-20 18:46:26:811£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye5¡¿½áÊø======
+2015-09-20 at 18:46:26 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 6.487 Ãë£¡======
+2015-09-20 at 18:46:26 CST INFO  com.wangyi.pages.WebdriverBaseCase 61 beforeTest - ======2015-09-20 18:46:26:812£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿¿ªÊ¼======
+2015-09-20 at 18:46:27 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='idInputLine']/child::inputÄÚÈİ³É¹¦
+2015-09-20 at 18:46:27 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµnature0805³É¹¦
+2015-09-20 at 18:46:27 CST INFO  com.wangyi.Driver.WangYiDriver 469 clear - Çå¿Õ¿Ø¼ş£ºBy.xpath: .//*[@id='pwdInput']ÄÚÈİ³É¹¦
+2015-09-20 at 18:46:27 CST INFO  com.wangyi.Driver.WangYiDriver 505 sendKeys - ÊäÈëÖµ850926³É¹¦
+2015-09-20 at 18:46:28 CST INFO  com.wangyi.Driver.WangYiDriver 487 click - µã»÷ÔªËØ£ºBy.xpath: .//*[@id='loginBtn']³É¹¦£¡
+2015-09-20 at 18:46:28 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - ¼ÓÔØ    D:\eclipse workspace\126Test\data\youxiang.properties³É¹¦
+2015-09-20 at 18:46:28 CST INFO  com.wangyi.pages.YouXiang 21 <init> - ³õÊ¼»¯YouXiangÀà³É¹¦£¡
+2015-09-20 at 18:46:34 CST DEBUG com.wangyi.Driver.WangYiDriver 589 getText - ¿Ø¼ş [ By.xpath: .//*[@id='spnUid'] ]µÄ ÄÚÈİÊÇ: nature0805@126.com
+2015-09-20 at 18:46:34 CST INFO  com.wangyi.pages.WebdriverBaseCase 72 afterTest - °¸Àı ¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿ ÔËĞĞÍ¨¹ı£¡
+2015-09-20 at 18:46:34 CST INFO  com.wangyi.pages.WebdriverBaseCase 83 afterTest - ======2015-09-20 18:46:34:071£º°¸Àı¡¾com.wangyitest.util.YouXiangTest.youXiangShouye¡¿½áÊø======
+2015-09-20 at 18:46:34 CST INFO  com.wangyi.pages.WebdriverBaseCase 86 afterTest - ======±¾´Î°¸ÀıÔËĞĞÏûºÄÊ±¼ä 7.258 Ãë£¡======
+2015-09-20 at 18:46:34 CST INFO  com.wangyi.pages.WebdriverBaseCase 53 afterClass - ======2015-09-20 18:46:34:072£º²âÊÔ¡¾com.wangyitest.util.YouXiangTest¡¿½áÊø======
+2015-09-20 at 18:46:34 CST INFO  com.wangyi.pages.WebdriverBaseCase 54 afterClass - ======±¾´Î²âÊÔÔËĞĞÏûºÄÊ±¼ä 51.086 Ãë£¡======
+2015-09-20 at 23:09:00 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - åŠ è½½    D:\eclipse workspace\126Test\data\shoye.propertiesæˆåŠŸ
+2015-09-20 at 23:09:00 CST INFO  com.wangyi.util.ParseProperties 28 loadFile - åŠ è½½    D:\eclipse workspace\126Test\data\shoye.propertiesæˆåŠŸ

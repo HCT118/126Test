@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52662" started-at="2015-11-14T01:18:42Z" finished-at="2015-11-14T01:19:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52662" started-at="2015-11-14T01:18:42Z" finished-at="2015-11-14T01:19:35Z">
+      <class name="com.wangyitest.util.YouXiangTest">
+        <test-method status="PASS" signature="Init()[pri:0, instance:com.wangyitest.util.YouXiangTest@5c072e3f]" name="Init" is-config="true" duration-ms="11364" started-at="2015-11-14T09:18:42Z" finished-at="2015-11-14T09:18:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Init -->
+        <test-method status="PASS" signature="youXiangShouye1()[pri:0, instance:com.wangyitest.util.YouXiangTest@5c072e3f]" name="youXiangShouye1" duration-ms="7430" started-at="2015-11-14T09:18:54Z" description="用户名错误，密码正确" finished-at="2015-11-14T09:19:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- youXiangShouye1 -->
+        <test-method status="PASS" signature="youXiangShouye2()[pri:0, instance:com.wangyitest.util.YouXiangTest@5c072e3f]" name="youXiangShouye2" duration-ms="6860" started-at="2015-11-14T09:19:01Z" description="用户名正确，密码错误" finished-at="2015-11-14T09:19:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- youXiangShouye2 -->
+        <test-method status="PASS" signature="youXiangShouye3()[pri:0, instance:com.wangyitest.util.YouXiangTest@5c072e3f]" name="youXiangShouye3" duration-ms="6411" started-at="2015-11-14T09:19:08Z" description="用户、密码都为空" finished-at="2015-11-14T09:19:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- youXiangShouye3 -->
+        <test-method status="PASS" signature="youXiangShouye4()[pri:0, instance:com.wangyitest.util.YouXiangTest@5c072e3f]" name="youXiangShouye4" duration-ms="6430" started-at="2015-11-14T09:19:14Z" description="用户为空、密码正确" finished-at="2015-11-14T09:19:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- youXiangShouye4 -->
+        <test-method status="PASS" signature="youXiangShouye5()[pri:0, instance:com.wangyitest.util.YouXiangTest@5c072e3f]" name="youXiangShouye5" duration-ms="6305" started-at="2015-11-14T09:19:21Z" description="用户名为空，密码正确" finished-at="2015-11-14T09:19:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- youXiangShouye5 -->
+        <test-method status="PASS" signature="youXiangShouye()[pri:0, instance:com.wangyitest.util.YouXiangTest@5c072e3f]" name="youXiangShouye" duration-ms="7811" started-at="2015-11-14T09:19:27Z" description="用户名、密码正确" finished-at="2015-11-14T09:19:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- youXiangShouye -->
+        <test-method status="FAIL" signature="CloseWindow()[pri:0, instance:com.wangyitest.util.YouXiangTest@5c072e3f]" name="CloseWindow" is-config="true" duration-ms="0" started-at="2015-11-14T09:19:35Z" finished-at="2015-11-14T09:19:35Z">
+          <exception class="org.openqa.selenium.NoSuchWindowException">
+            <message>
+              <![CDATA[Unable to get browser (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+Build info: version: '2.44.0', revision: '76d78cf323ce037c5f92db6c1bba601c2ac43ad8', time: '2014-10-23 13:11:40'
+System info: host: 'Nature-PC', ip: '192.168.0.102', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ignoreZoomSetting=true, handlesAlerts=true, version=8, platform=WINDOWS, nativeEvents=true, elementScrollBehavior=0, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: eb553776-e246-446d-8c7b-99aa3e04f346]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchWindowException: Unable to get browser (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+Build info: version: '2.44.0', revision: '76d78cf323ce037c5f92db6c1bba601c2ac43ad8', time: '2014-10-23 13:11:40'
+System info: host: 'Nature-PC', ip: '192.168.0.102', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_65'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ignoreZoomSetting=true, handlesAlerts=true, version=8, platform=WINDOWS, nativeEvents=true, elementScrollBehavior=0, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: eb553776-e246-446d-8c7b-99aa3e04f346
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:614)
+	at org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:463)
+	at com.wangyitest.util.YouXiangTest.CloseWindow(YouXiangTest.java:153)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:552)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:215)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:140)
+	at org.testng.internal.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:220)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchWindowException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseWindow -->
+      </class> <!-- com.wangyitest.util.YouXiangTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
